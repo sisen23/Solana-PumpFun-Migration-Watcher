@@ -1,0 +1,2770 @@
+{
+  "9X4psjM8rieYA4npErgmyUmHNwHcH4mWuvR5JDXpump": {
+    "totalUsersBeforeFilter": 6,
+    "totalSold": 0,
+    "TimeToBond": "0 days, 0 hours, 0 minutes, 1 seconds",
+    "users": [
+      {
+        "user": "35RfEaRrh9YqPAdYbdhd4A5nBHZWW3FMfPA45ucDu4Ry",
+        "accounts": [],
+        "solBalance": 0.00089088,
+        "netTokenAmount": 745521598.842364,
+        "totalValue": 0.00089088,
+        "stablecoins": 0
+      },
+      {
+        "user": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+        "accounts": [
+          {
+            "mint": "Evc6zPCzmJ6b5Vorb4o8Boonerbcaxpe1B95TJDcpump",
+            "amount": 34440610.741598,
+            "owner": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "uiAmount": 34440610.741598,
+            "uiAmountString": "34440610.741598",
+            "price": 0.0000100059,
+            "value": 344.60930701935547
+          },
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 10.793110916,
+            "owner": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "uiAmount": 10.793110916,
+            "uiAmountString": "10.793110916",
+            "price": 229.205319,
+            "value": 2473.8384305041623
+          }
+        ],
+        "solBalance": 4323.190622375,
+        "netTokenAmount": 24077586.79824,
+        "totalValue": 7150.926359038473,
+        "stablecoins": 0.0000099991
+      },
+      {
+        "user": "MwoiiPS5m5jXwRx9P8dDuxk2n4N3sMFB4v6YrxA1z66",
+        "accounts": [
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 3.394928053,
+            "owner": "MwoiiPS5m5jXwRx9P8dDuxk2n4N3sMFB4v6YrxA1z66",
+            "uiAmount": 3.394928053,
+            "uiAmountString": "3.394928053",
+            "price": 229.205319,
+            "value": 778.1355673699139
+          }
+        ],
+        "solBalance": 10.56706984,
+        "netTokenAmount": 8879555.487904,
+        "totalValue": 795.0729714723361,
+        "stablecoins": 0
+      },
+      {
+        "user": "6zrgk4y9JtgB9r8QP1vj27xTKZTTAaGt7fefWDJX6FTK",
+        "accounts": [],
+        "solBalance": 4.278471744,
+        "netTokenAmount": 8122244.070993,
+        "totalValue": 4.278471744,
+        "stablecoins": 0
+      },
+      {
+        "user": "Ea6imi1F1VhKa9p9joPCtR9w1ZeUfzo2Awim1UQyKrqA",
+        "accounts": [
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 0.5,
+            "owner": "Ea6imi1F1VhKa9p9joPCtR9w1ZeUfzo2Awim1UQyKrqA",
+            "uiAmount": 0.5,
+            "uiAmountString": "0.5",
+            "price": 229.205319,
+            "value": 114.6026595
+          }
+        ],
+        "solBalance": 2.865023762,
+        "netTokenAmount": 6213349.467101,
+        "totalValue": 117.46768326200001,
+        "stablecoins": 0
+      }
+    ]
+  },
+  "Dhra4GP3Gd2XPEb6c5pQnqgMAbMcVbHidFvGSyDwpump": {
+    "totalUsersBeforeFilter": 10,
+    "totalSold": 0,
+    "TimeToBond": "0 days, 0 hours, 34 minutes, 32 seconds",
+    "users": [
+      {
+        "user": "DymPzLVTk7HEw1bKs6GrZaF56TiWL3SDH91fa4FHnt1J",
+        "accounts": [
+          {
+            "mint": "Dhra4GP3Gd2XPEb6c5pQnqgMAbMcVbHidFvGSyDwpump",
+            "amount": 754382795.125884,
+            "owner": "DymPzLVTk7HEw1bKs6GrZaF56TiWL3SDH91fa4FHnt1J",
+            "uiAmount": 754382795.125884,
+            "uiAmountString": "754382795.125884",
+            "price": 0.0000674721,
+            "value": 50899.79139101316
+          },
+          {
+            "mint": "AujTJJ7aMS8LDo3bFzoyXDwT3jBALUbu4VZhzZdTZLmG",
+            "amount": 204414947,
+            "owner": "DymPzLVTk7HEw1bKs6GrZaF56TiWL3SDH91fa4FHnt1J",
+            "uiAmount": 204414947,
+            "uiAmountString": "204414947",
+            "price": 0.00000682368,
+            "value": 1394.86218554496
+          },
+          {
+            "mint": "D3wsQp1jLnbVuV1A6Rd4rmGwQ9CFPgfyvbXGitoSpump",
+            "amount": 42657995.310539,
+            "owner": "DymPzLVTk7HEw1bKs6GrZaF56TiWL3SDH91fa4FHnt1J",
+            "uiAmount": 42657995.310539,
+            "uiAmountString": "42657995.310539",
+            "price": 0.00000415552,
+            "value": 177.26615267285104
+          }
+        ],
+        "solBalance": 2.14312796,
+        "netTokenAmount": 754382795.1258842,
+        "totalValue": 52474.06285719097,
+        "stablecoins": 0
+      },
+      {
+        "user": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+        "accounts": [
+          {
+            "mint": "Evc6zPCzmJ6b5Vorb4o8Boonerbcaxpe1B95TJDcpump",
+            "amount": 34440610.741598,
+            "owner": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "uiAmount": 34440610.741598,
+            "uiAmountString": "34440610.741598",
+            "price": 0.0000100059,
+            "value": 344.60930701935547
+          },
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 10.793110916,
+            "owner": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "uiAmount": 10.793110916,
+            "uiAmountString": "10.793110916",
+            "price": 229.205319,
+            "value": 2473.8384305041623
+          }
+        ],
+        "solBalance": 4323.190622375,
+        "netTokenAmount": 32517171.530066,
+        "totalValue": 7150.926359038473,
+        "stablecoins": 0.0000099991
+      },
+      {
+        "user": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+        "accounts": [
+          {
+            "mint": "EEQD5iz6zPALGed5dEXrYsDL5PxzNSsDb9rCBz4otT1Y",
+            "amount": 329946774042918.75,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 329946774042918.75,
+            "uiAmountString": "329946774042918.74",
+            "price": 1.04366e-9,
+            "value": 344352.2501976326
+          },
+          {
+            "mint": "8rh46xEr48nvfTFy9MpNVMH4UtiHPbitQVeVAodbhZir",
+            "amount": 153327391906177.28,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 153327391906177.28,
+            "uiAmountString": "153327391906177.29",
+            "price": 7.8372e-10,
+            "value": 120165.74358470926
+          },
+          {
+            "mint": "G4NgZG7entpsHD9L1sLC7gQDx5eAw5gnMCt7sPFHNZ8m",
+            "amount": 51395232011826.65,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 51395232011826.65,
+            "uiAmountString": "51395232011826.65",
+            "price": 7.26821e-12,
+            "value": 373.55133926067856
+          },
+          {
+            "mint": "E2FWo5xdx797cVBFApJVRroo1S4cSNU1nzKC9k8pkVKP",
+            "amount": 46906334143826.02,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 46906334143826.02,
+            "uiAmountString": "46906334143826.02",
+            "price": 8.41897e-12,
+            "value": 394.90301996684695
+          },
+          {
+            "mint": "CLxGqwUMJNhBK79JhbN1Lgrmbs7Rrm8LGZTwWGgGZkjR",
+            "amount": 40613645471367.11,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 40613645471367.11,
+            "uiAmountString": "40613645471367.11",
+            "price": 6.76063e-10,
+            "value": 27457.38299830886
+          },
+          {
+            "mint": "TRUMPJeRPUMgJ74ARgTdVWbt5kRkf1ssob5zGF92kce",
+            "amount": 16957263564187.812,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 16957263564187.814,
+            "uiAmountString": "16957263564187.812938",
+            "price": 4.88017e-8,
+            "value": 827543.2892804245
+          },
+          {
+            "mint": "6YCfzgGz64rmtrJ3KbbSBvAFYNgF9oVCYa6pEvq9qTLV",
+            "amount": 3198620825705.84,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 3198620825705.84,
+            "uiAmountString": "3198620825705.84",
+            "price": 8.22784e-12,
+            "value": 26.31774037457554
+          },
+          {
+            "mint": "6ryphQPr8qVAQE87xgmJBBKe92rCe5M1MTcJvF14fyyU",
+            "amount": 2791127945934.145,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 2791127945934.145,
+            "uiAmountString": "2791127945934.144861",
+            "price": 5.35532e-11,
+            "value": 149.47383311420046
+          },
+          {
+            "mint": "3QYZBSkDSK6pk2rRhHy2nZ6DwEe8QrFobBemfBCMUtnT",
+            "amount": 2616315125098.0273,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 2616315125098.0273,
+            "uiAmountString": "2616315125098.02729",
+            "price": 7.54928e-11,
+            "value": 197.51295447600037
+          },
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 2079.965157152,
+            "owner": "AtTjQKXo1CYTa2MuxPARtr382ZyhPU5YX4wMMpvaa1oy",
+            "uiAmount": 2079.965157152,
+            "uiAmountString": "2079.965157152",
+            "price": 229.205319,
+            "value": 476739.07735390926
+          }
+        ],
+        "solBalance": 261.240393922,
+        "netTokenAmount": 2823433.3585440014,
+        "totalValue": 1797660.7426960988,
+        "stablecoins": 0
+      },
+      {
+        "user": "7ywYz8FACdrtxhX1UmDjYGfoxedG5qJUptN9H2YnRQta",
+        "accounts": [
+          {
+            "mint": "Du6kDiiq4P6vNWDEAC3Sg3EQ342Vm4DsHjtnKy6Rpump",
+            "amount": 3418475.847484,
+            "owner": "7ywYz8FACdrtxhX1UmDjYGfoxedG5qJUptN9H2YnRQta",
+            "uiAmount": 3418475.847484,
+            "uiAmountString": "3418475.847484",
+            "price": 0.0000348094,
+            "value": 118.99509316540954
+          },
+          {
+            "mint": "Dhra4GP3Gd2XPEb6c5pQnqgMAbMcVbHidFvGSyDwpump",
+            "amount": 2908392.437162,
+            "owner": "7ywYz8FACdrtxhX1UmDjYGfoxedG5qJUptN9H2YnRQta",
+            "uiAmount": 2908392.437162,
+            "uiAmountString": "2908392.437162",
+            "price": 0.0000674721,
+            "value": 196.23534535943818
+          },
+          {
+            "mint": "3PACAUF5CPtaMTBAGtmUqgHeXUUKrjM3onES8ryFpump",
+            "amount": 2565496.844517,
+            "owner": "7ywYz8FACdrtxhX1UmDjYGfoxedG5qJUptN9H2YnRQta",
+            "uiAmount": 2565496.844517,
+            "uiAmountString": "2565496.844517",
+            "price": 0.0000819744,
+            "value": 210.30506453117437
+          },
+          {
+            "mint": "Bo7Yah94tDx6iC9EyWpbLCkLMFme6YVcMUTiYL1Upump",
+            "amount": 2282117.503979,
+            "owner": "7ywYz8FACdrtxhX1UmDjYGfoxedG5qJUptN9H2YnRQta",
+            "uiAmount": 2282117.503979,
+            "uiAmountString": "2282117.503979",
+            "price": 0.00004252,
+            "value": 97.03563626918707
+          },
+          {
+            "mint": "Bksfke6KWgpftafmbR3E9J4wHr4bBfKDrztXN6etpump",
+            "amount": 2054313.874598,
+            "owner": "7ywYz8FACdrtxhX1UmDjYGfoxedG5qJUptN9H2YnRQta",
+            "uiAmount": 2054313.874598,
+            "uiAmountString": "2054313.874598",
+            "price": 0.00324854,
+            "value": 6673.5207941865865
+          },
+          {
+            "mint": "H1sWyyDceAPpGmMUxVBCHcR2LrCjz933pUyjWSLpump",
+            "amount": 1004210.9506,
+            "owner": "7ywYz8FACdrtxhX1UmDjYGfoxedG5qJUptN9H2YnRQta",
+            "uiAmount": 1004210.9506,
+            "uiAmountString": "1004210.9506",
+            "price": 0.010294,
+            "value": 10337.3475254764
+          },
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 0.1,
+            "owner": "7ywYz8FACdrtxhX1UmDjYGfoxedG5qJUptN9H2YnRQta",
+            "uiAmount": 0.1,
+            "uiAmountString": "0.1",
+            "price": 229.205319,
+            "value": 22.9205319
+          }
+        ],
+        "solBalance": 49.154214195,
+        "netTokenAmount": 2908392.437162,
+        "totalValue": 17717.537749760475,
+        "stablecoins": 0
+      }
+    ]
+  },
+  "ASs7spTfnQtb3CseQju3vh8ZGwjaENDvjbzBJN24pump": {
+    "totalUsersBeforeFilter": 126,
+    "totalSold": 18202713.166941006,
+    "TimeToBond": "0 days, 10 hours, 5 minutes, 52 seconds",
+    "users": [
+      {
+        "user": "6oiFJHf5H76rgeKL8omMpGrcA6JSkAfv8Sx6tm4MDy8B",
+        "accounts": [
+          {
+            "mint": "ASs7spTfnQtb3CseQju3vh8ZGwjaENDvjbzBJN24pump",
+            "amount": 13623135.609314,
+            "owner": "6oiFJHf5H76rgeKL8omMpGrcA6JSkAfv8Sx6tm4MDy8B",
+            "uiAmount": 13623135.609314,
+            "uiAmountString": "13623135.609314",
+            "price": 0.0000671931,
+            "value": 915.3807133101965
+          },
+          {
+            "mint": "2ahYmBCwrxQifX6ot7JSgrq3AecYNJhy2KPBFSiLJES3",
+            "amount": 2811664.546538454,
+            "owner": "6oiFJHf5H76rgeKL8omMpGrcA6JSkAfv8Sx6tm4MDy8B",
+            "uiAmount": 2811664.546538454,
+            "uiAmountString": "2811664.546538454",
+            "price": 0.021629972,
+            "value": 60816.22541501946
+          },
+          {
+            "mint": "ATbHVczSizyiXUGuF6UZW9UbyB8UyfYLvGyq383nmoon",
+            "amount": 177925.346001,
+            "owner": "6oiFJHf5H76rgeKL8omMpGrcA6JSkAfv8Sx6tm4MDy8B",
+            "uiAmount": 177925.346001,
+            "uiAmountString": "177925.346001",
+            "price": 2.058619,
+            "value": 366280.49785923265
+          },
+          {
+            "mint": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+            "amount": 1911.852423,
+            "owner": "6oiFJHf5H76rgeKL8omMpGrcA6JSkAfv8Sx6tm4MDy8B",
+            "uiAmount": 1911.852423,
+            "uiAmountString": "1911.852423",
+            "price": 0.264879,
+            "value": 506.40955795181696
+          }
+        ],
+        "solBalance": 50.283683687,
+        "netTokenAmount": 12007616.170107,
+        "totalValue": 428568.80495650554,
+        "stablecoins": 0.00772730448
+      },
+      {
+        "user": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+        "accounts": [
+          {
+            "mint": "So3WVMDCxZKiXrQQsadryU2jnXbUHxhrQLCo9tZpump",
+            "amount": 24982225.23624,
+            "owner": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+            "uiAmount": 24982225.23624,
+            "uiAmountString": "24982225.23624",
+            "price": 0.0000147033,
+            "value": 367.3211523160076
+          },
+          {
+            "mint": "HwCF2iVxRKPqCQsMmTmLCT3rC589Y81VPqH6wR7Kpump",
+            "amount": 21663216.062436,
+            "owner": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+            "uiAmount": 21663216.062436,
+            "uiAmountString": "21663216.062436",
+            "price": 0.0000362503,
+            "value": 785.2980812281237
+          },
+          {
+            "mint": "3PcJ7SZfNDVYoezJTAVu87fHcJdF7nDMhNvCSntbpump",
+            "amount": 21348808.761487,
+            "owner": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+            "uiAmount": 21348808.761487,
+            "uiAmountString": "21348808.761487",
+            "price": 0.0000283076,
+            "value": 604.3335388966694
+          },
+          {
+            "mint": "CzRjp6ZHfNeJLfE3giBUgsZhFZyhgsaG1ga348LUpump",
+            "amount": 21300547.176524,
+            "owner": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+            "uiAmount": 21300547.176524,
+            "uiAmountString": "21300547.176524",
+            "price": 0.0000254427,
+            "value": 541.9434316481471
+          },
+          {
+            "mint": "74xLx67Y2WCgDMknuiHQjYWKv6GFrEgNMTKYcEJ5pump",
+            "amount": 16555989.606343,
+            "owner": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+            "uiAmount": 16555989.606343,
+            "uiAmountString": "16555989.606343",
+            "price": 0.0000170239,
+            "value": 281.8475114594226
+          },
+          {
+            "mint": "Xmw1Cq4EMPCBTYHhb7FbMLHnpXyL2gj2CmTcQnqpump",
+            "amount": 15744118.462243,
+            "owner": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+            "uiAmount": 15744118.462243,
+            "uiAmountString": "15744118.462243",
+            "price": 0.000042321,
+            "value": 666.3068374405859
+          },
+          {
+            "mint": "E6NhQqtJ1Pxt7rmZcr3RZkToTHJxj276WC5efDWVpump",
+            "amount": 15171612.004091,
+            "owner": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+            "uiAmount": 15171612.004091,
+            "uiAmountString": "15171612.004091",
+            "price": 0.0000118649,
+            "value": 180.00965926733932
+          },
+          {
+            "mint": "YX8Uhr8s6nTVtUBsP83RMWFEe6GTzs1C8StXfbPpump",
+            "amount": 14038607.243885,
+            "owner": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+            "uiAmount": 14038607.243885,
+            "uiAmountString": "14038607.243885",
+            "price": 0.0000176525,
+            "value": 247.81651437267996
+          },
+          {
+            "mint": "7mFTH5i8DWeoi38xG3LeoZ1ZwvyvJg763j9gqgvdpump",
+            "amount": 13108325.517333,
+            "owner": "3jP1Lw8Y11Wc6y2TCpUnwaG7RzVgHPoPFGMMmusurbXr",
+            "uiAmount": 13108325.517333,
+            "uiAmountString": "13108325.517333",
+            "price": 0.0000159395,
+            "value": 208.94015458352936
+          }
+        ],
+        "solBalance": 265.393469668,
+        "netTokenAmount": 9914981.641015,
+        "totalValue": 4149.677764703435,
+        "stablecoins": 0
+      },
+      {
+        "user": "3MYTxVp1oAriZiqRVooCRnbRWn9wNtGq2UQ2wPLp3GJB",
+        "accounts": [
+          {
+            "mint": "3PcJ7SZfNDVYoezJTAVu87fHcJdF7nDMhNvCSntbpump",
+            "amount": 20928267.828568,
+            "owner": "3MYTxVp1oAriZiqRVooCRnbRWn9wNtGq2UQ2wPLp3GJB",
+            "uiAmount": 20928267.828568,
+            "uiAmountString": "20928267.828568",
+            "price": 0.0000283076,
+            "value": 592.4290343839715
+          },
+          {
+            "mint": "CzRjp6ZHfNeJLfE3giBUgsZhFZyhgsaG1ga348LUpump",
+            "amount": 20838429.033297,
+            "owner": "3MYTxVp1oAriZiqRVooCRnbRWn9wNtGq2UQ2wPLp3GJB",
+            "uiAmount": 20838429.033297,
+            "uiAmountString": "20838429.033297",
+            "price": 0.0000254427,
+            "value": 530.1858983654655
+          }
+        ],
+        "solBalance": 31.013734826,
+        "netTokenAmount": 9674957.771079,
+        "totalValue": 1153.628667575437,
+        "stablecoins": 0
+      },
+      {
+        "user": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+        "accounts": [
+          {
+            "mint": "38eZq5LgbFHg4hv1mGkXdmRNfEFcPGSwdUojeytipump",
+            "amount": 55859739.289701,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 55859739.289701,
+            "uiAmountString": "55859739.289701",
+            "price": 0.0000224678,
+            "value": 1255.045450413144
+          },
+          {
+            "mint": "ZafRQuyjuk7YfuS1iwQGRYvwxm9hfhbcjED2ZWTpump",
+            "amount": 39460267.024493,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 39460267.024493,
+            "uiAmountString": "39460267.024493",
+            "price": 0.0000137427,
+            "value": 542.2906116375
+          },
+          {
+            "mint": "2znxs6fwrrZ9NnbrZm8qxcTF3iSsXpic5WzV9Lb5pump",
+            "amount": 34784869.344375,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 34784869.344375,
+            "uiAmountString": "34784869.344375",
+            "price": 0.0000405056,
+            "value": 1408.982003715516
+          },
+          {
+            "mint": "CozRRzVYqxWdsvM2PSDe1z8QZHpfsvhrUa83nPBDpump",
+            "amount": 34521475.367356,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 34521475.367356,
+            "uiAmountString": "34521475.367356",
+            "price": 0.00002237,
+            "value": 772.2454039677538
+          },
+          {
+            "mint": "Aw5HHAJTA6ZuGCLK5GdDvYZopWd8hsY2iK7mRqkbpump",
+            "amount": 32600034.261863,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 32600034.261863,
+            "uiAmountString": "32600034.261863",
+            "price": 0.0000267976,
+            "value": 873.6026781356999
+          },
+          {
+            "mint": "Bre6EkdRj2ZtRCcqGoLXCWYebpTub3DxqPvYhZV7moon",
+            "amount": 28594749.038465798,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 28594749.038465794,
+            "uiAmountString": "28594749.038465797",
+            "price": 0.0000301821282,
+            "value": 863.0503813258014
+          },
+          {
+            "mint": "B1ibfkACWAVBwUsKZfUZTAvKZwtdQSbirkUfJsSxpump",
+            "amount": 26563800.737205,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 26563800.737205,
+            "uiAmountString": "26563800.737205",
+            "price": 0.000037393,
+            "value": 993.3002009663065
+          },
+          {
+            "mint": "7ewwYHqqRC8LRtWLy2uDbKDo8RwPsButPm1hWiLJpump",
+            "amount": 22099008.33904,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 22099008.33904,
+            "uiAmountString": "22099008.33904",
+            "price": 0.0000283664,
+            "value": 626.8693101485443
+          },
+          {
+            "mint": "54PS4YmAq3PiTL3UmYX3YUNuvJu1eiuMpTAwpUF3pump",
+            "amount": 21684279.343629,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 21684279.343629,
+            "uiAmountString": "21684279.343629",
+            "price": 0.0000383573,
+            "value": 831.7504080673806
+          },
+          {
+            "mint": "EcFLF9WwVCZm1RtY3fDpr669Wki5RjQ9Wbsi3h8vpump",
+            "amount": 20483542.506076,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 20483542.506076,
+            "uiAmountString": "20483542.506076",
+            "price": 0.0000407479,
+            "value": 834.6613416833343
+          },
+          {
+            "mint": "4oxxzeELKL2cEZMGssekQF5j29eVyLgJ1AtKiT5Upump",
+            "amount": 16740937.446374,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 16740937.446374,
+            "uiAmountString": "16740937.446374",
+            "price": 0.0000262995,
+            "value": 440.278284370913
+          },
+          {
+            "mint": "7o6Gg34MKD6QyRc6MvABjSkDK1MzK73BEZS1GcYspump",
+            "amount": 15576323.361267,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 15576323.361267,
+            "uiAmountString": "15576323.361267",
+            "price": 0.0000367146,
+            "value": 571.8784816795735
+          },
+          {
+            "mint": "DokKEjptWn5nWUa4CqJea2qoqtLnQMVQdn9to5Bspump",
+            "amount": 14648609.274433,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 14648609.274433,
+            "uiAmountString": "14648609.274433",
+            "price": 0.0000410852,
+            "value": 601.8410417619347
+          },
+          {
+            "mint": "C5s6gAuyXEGB8vfhziqJgZVTUzVrsvfcCvvPcM64pump",
+            "amount": 11821953.562919,
+            "owner": "9UHYdvofL2tDStCnLzZNvyBHxAcGC2KFq9Nj5ZHVCxt4",
+            "uiAmount": 11821953.562919,
+            "uiAmountString": "11821953.562919",
+            "price": 0.0000496833,
+            "value": 587.3536654525735
+          }
+        ],
+        "solBalance": 1086.481185868,
+        "netTokenAmount": 8510141.801571,
+        "totalValue": 12289.630449193977,
+        "stablecoins": 0
+      },
+      {
+        "user": "3hEsPAcY2N2Nis33u4bYhimEqYvMJQM3dnMFkEviFhpn",
+        "accounts": [
+          {
+            "mint": "ASs7spTfnQtb3CseQju3vh8ZGwjaENDvjbzBJN24pump",
+            "amount": 7928752.949092,
+            "owner": "3hEsPAcY2N2Nis33u4bYhimEqYvMJQM3dnMFkEviFhpn",
+            "uiAmount": 7928752.949092,
+            "uiAmountString": "7928752.949092",
+            "price": 0.0000671931,
+            "value": 532.7574897836337
+          }
+        ],
+        "solBalance": 0.019890853,
+        "netTokenAmount": 7928752.949092,
+        "totalValue": 532.7773806366337,
+        "stablecoins": 0
+      },
+      {
+        "user": "BYvGhNWBNWWPAVSdrGRY2HS6aaR4GSxSWCDm9aHYMN8x",
+        "accounts": [
+          {
+            "mint": "CDcx3fdHSVMF2G1bCnhvAx7igr9kqv5dmbKyihSm2UBu",
+            "amount": 6887513.872743,
+            "owner": "BYvGhNWBNWWPAVSdrGRY2HS6aaR4GSxSWCDm9aHYMN8x",
+            "uiAmount": 6887513.872743,
+            "uiAmountString": "6887513.872743",
+            "price": 0.00000555975,
+            "value": 38.29285525398289
+          },
+          {
+            "mint": "ASs7spTfnQtb3CseQju3vh8ZGwjaENDvjbzBJN24pump",
+            "amount": 3928275.548388,
+            "owner": "BYvGhNWBNWWPAVSdrGRY2HS6aaR4GSxSWCDm9aHYMN8x",
+            "uiAmount": 3928275.548388,
+            "uiAmountString": "3928275.548388",
+            "price": 0.0000671931,
+            "value": 263.95301175038975
+          },
+          {
+            "mint": "FL6joB8scyBVXFHtmxdd1m6TWHnmFJWHYSMX3Dq5Svdz",
+            "amount": 3041048.314386718,
+            "owner": "BYvGhNWBNWWPAVSdrGRY2HS6aaR4GSxSWCDm9aHYMN8x",
+            "uiAmount": 3041048.314386718,
+            "uiAmountString": "3041048.314386718",
+            "price": 0.021428697,
+            "value": 65165.70289135372
+          },
+          {
+            "mint": "BzD4x3ugNjhiHTHAjsm4zgqNsg3TzqWVWmKS781E71Mp",
+            "amount": 1665667.205297286,
+            "owner": "BYvGhNWBNWWPAVSdrGRY2HS6aaR4GSxSWCDm9aHYMN8x",
+            "uiAmount": 1665667.205297286,
+            "uiAmountString": "1665667.205297286",
+            "price": 0.020344879,
+            "value": 33887.79774604144
+          },
+          {
+            "mint": "GLPXAK7rrFJj9iVatCd8QuKytMi3brUXWawoF4LXpump",
+            "amount": 610601.606507,
+            "owner": "BYvGhNWBNWWPAVSdrGRY2HS6aaR4GSxSWCDm9aHYMN8x",
+            "uiAmount": 610601.606507,
+            "uiAmountString": "610601.606507",
+            "price": 0.000127061,
+            "value": 77.58365072438593
+          },
+          {
+            "mint": "3dH1FZwt2b1E3SLBZjUJbuFvA19ETFZ561QSzMnry5uV",
+            "amount": 586353.5751406,
+            "owner": "BYvGhNWBNWWPAVSdrGRY2HS6aaR4GSxSWCDm9aHYMN8x",
+            "uiAmount": 586353.5751406,
+            "uiAmountString": "586353.5751406",
+            "price": 0.000048479834,
+            "value": 28.426323988122814
+          }
+        ],
+        "solBalance": 0.104770785,
+        "netTokenAmount": 3928275.548388,
+        "totalValue": 99497.10126617042,
+        "stablecoins": 0
+      },
+      {
+        "user": "3mu8tuxkSK3AMzjWMYAety29gZUf1uGj6zDAXRhbgUuG",
+        "accounts": [
+          {
+            "mint": "J6PyhWbwSr88P6L4wAfaPH9uvLtisA2VCBnjkV6Rpump",
+            "amount": 128910138.849694,
+            "owner": "3mu8tuxkSK3AMzjWMYAety29gZUf1uGj6zDAXRhbgUuG",
+            "uiAmount": 128910138.849694,
+            "uiAmountString": "128910138.849694",
+            "price": 0.000008611,
+            "value": 1110.0452056347149
+          },
+          {
+            "mint": "ASs7spTfnQtb3CseQju3vh8ZGwjaENDvjbzBJN24pump",
+            "amount": 3840851.808829,
+            "owner": "3mu8tuxkSK3AMzjWMYAety29gZUf1uGj6zDAXRhbgUuG",
+            "uiAmount": 3840851.808829,
+            "uiAmountString": "3840851.808829",
+            "price": 0.0000671931,
+            "value": 258.0787396758279
+          },
+          {
+            "mint": "GiwXJD9MEj6g99jsJC6roH9PrErTL2mcgZ3v4DQHpump",
+            "amount": 1009014.096767,
+            "owner": "3mu8tuxkSK3AMzjWMYAety29gZUf1uGj6zDAXRhbgUuG",
+            "uiAmount": 1009014.096767,
+            "uiAmountString": "1009014.096767",
+            "price": 0.0000313168,
+            "value": 31.599092665632785
+          },
+          {
+            "mint": "75DvRjTDpaEbrdUHVomdjfsiXbBi5FwNyctyUgfLooS",
+            "amount": 107959.058582945,
+            "owner": "3mu8tuxkSK3AMzjWMYAety29gZUf1uGj6zDAXRhbgUuG",
+            "uiAmount": 107959.058582945,
+            "uiAmountString": "107959.058582945",
+            "price": 0.000636887839,
+            "value": 68.75781152136625
+          }
+        ],
+        "solBalance": 1.440239338,
+        "netTokenAmount": 3840851.808829,
+        "totalValue": 1485.505765384937,
+        "stablecoins": 0
+      },
+      {
+        "user": "HACZs8zaTdv4qBMH78S1Lc7MehFeFbdJ1pQfh7B6n3yo",
+        "accounts": [
+          {
+            "mint": "ASs7spTfnQtb3CseQju3vh8ZGwjaENDvjbzBJN24pump",
+            "amount": 3633413.56624,
+            "owner": "HACZs8zaTdv4qBMH78S1Lc7MehFeFbdJ1pQfh7B6n3yo",
+            "uiAmount": 3633413.56624,
+            "uiAmountString": "3633413.56624",
+            "price": 0.0000671931,
+            "value": 244.14032109772094
+          }
+        ],
+        "solBalance": 1.435235675,
+        "netTokenAmount": 3633413.56624,
+        "totalValue": 245.57555677272094,
+        "stablecoins": 0
+      },
+      {
+        "user": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+        "accounts": [
+          {
+            "mint": "H8yVJvc8su9AvR7hsZjEMWSKe566voWjsJKyAUMbboyb",
+            "amount": 107201905124667.31,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 107201905124667.31,
+            "uiAmountString": "107201905124667.31",
+            "price": 1.87291e-13,
+            "value": 20.077952012704067
+          },
+          {
+            "mint": "ZafRQuyjuk7YfuS1iwQGRYvwxm9hfhbcjED2ZWTpump",
+            "amount": 19651826.746754,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 19651826.746754,
+            "uiAmountString": "19651826.746754",
+            "price": 0.0000137427,
+            "value": 270.06915943261623
+          },
+          {
+            "mint": "38eZq5LgbFHg4hv1mGkXdmRNfEFcPGSwdUojeytipump",
+            "amount": 18654690.979726,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 18654690.979726,
+            "uiAmountString": "18654690.979726",
+            "price": 0.0000224678,
+            "value": 419.12986599428785
+          },
+          {
+            "mint": "CozRRzVYqxWdsvM2PSDe1z8QZHpfsvhrUa83nPBDpump",
+            "amount": 16372652.201513,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 16372652.201513,
+            "uiAmountString": "16372652.201513",
+            "price": 0.00002237,
+            "value": 366.25622974784585
+          },
+          {
+            "mint": "Bre6EkdRj2ZtRCcqGoLXCWYebpTub3DxqPvYhZV7moon",
+            "amount": 13496322.783261914,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 13496322.783261914,
+            "uiAmountString": "13496322.783261914",
+            "price": 0.0000301821282,
+            "value": 407.3477444729919
+          },
+          {
+            "mint": "BWKXnKUazCTFnWNgQ99JL681hiDmVvP8BVNjaCfipump",
+            "amount": 13180071.825016,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 13180071.825016,
+            "uiAmountString": "13180071.825016",
+            "price": 0.0000251808,
+            "value": 331.8847526113629
+          },
+          {
+            "mint": "2znxs6fwrrZ9NnbrZm8qxcTF3iSsXpic5WzV9Lb5pump",
+            "amount": 13145879.209605,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 13145879.209605,
+            "uiAmountString": "13145879.209605",
+            "price": 0.0000405056,
+            "value": 532.4817249125763
+          },
+          {
+            "mint": "7ewwYHqqRC8LRtWLy2uDbKDo8RwPsButPm1hWiLJpump",
+            "amount": 11505025.192257,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 11505025.192257,
+            "uiAmountString": "11505025.192257",
+            "price": 0.0000283664,
+            "value": 326.35614661363894
+          },
+          {
+            "mint": "Aw5HHAJTA6ZuGCLK5GdDvYZopWd8hsY2iK7mRqkbpump",
+            "amount": 11148007.061759,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 11148007.061759,
+            "uiAmountString": "11148007.061759",
+            "price": 0.0000267976,
+            "value": 298.739834038193
+          },
+          {
+            "mint": "54PS4YmAq3PiTL3UmYX3YUNuvJu1eiuMpTAwpUF3pump",
+            "amount": 10443693.560874,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 10443693.560874,
+            "uiAmountString": "10443693.560874",
+            "price": 0.0000383573,
+            "value": 400.5918870225123
+          },
+          {
+            "mint": "BvKMgSdm1vkQvPz5KzmUJL2w6xXMzoGjaJx3PHsdpump",
+            "amount": 10152340.381034,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 10152340.381034,
+            "uiAmountString": "10152340.381034",
+            "price": 0.00000721167,
+            "value": 73.21532855569147
+          },
+          {
+            "mint": "4oxxzeELKL2cEZMGssekQF5j29eVyLgJ1AtKiT5Upump",
+            "amount": 9427985.322782,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 9427985.322782,
+            "uiAmountString": "9427985.322782",
+            "price": 0.0000262995,
+            "value": 247.95129999650524
+          },
+          {
+            "mint": "B1ibfkACWAVBwUsKZfUZTAvKZwtdQSbirkUfJsSxpump",
+            "amount": 9152157.931909,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 9152157.931909,
+            "uiAmountString": "9152157.931909",
+            "price": 0.000037393,
+            "value": 342.22664154787327
+          },
+          {
+            "mint": "DzUNMTi9PgwA7AdZjUoaJAKLzzWoE1aLjtxzRyZxpump",
+            "amount": 8870285.708226,
+            "owner": "UgkfCADggtexgEQadoJQHRiUDJWcMjDeypo9Z86nW44",
+            "uiAmount": 8870285.708226,
+            "uiAmountString": "8870285.708226",
+            "price": 0.0000046658,
+            "value": 41.386979057440875
+          }
+        ],
+        "solBalance": 68.95824096,
+        "netTokenAmount": 3022289.564013,
+        "totalValue": 4146.673786976241,
+        "stablecoins": 0
+      },
+      {
+        "user": "36iv1q2T3uwRY1v3891KXwD53Xejxj5FRCfviuPCxNbv",
+        "accounts": [
+          {
+            "mint": "ASs7spTfnQtb3CseQju3vh8ZGwjaENDvjbzBJN24pump",
+            "amount": 14238373.196681,
+            "owner": "36iv1q2T3uwRY1v3891KXwD53Xejxj5FRCfviuPCxNbv",
+            "uiAmount": 14238373.196681,
+            "uiAmountString": "14238373.196681",
+            "price": 0.0000671931,
+            "value": 956.7204340419061
+          },
+          {
+            "mint": "DSaAjiDAwJueG7bZmm6cjzCfY91CiD1h3EDr5aavpNht",
+            "amount": 3283998.06197578,
+            "owner": "36iv1q2T3uwRY1v3891KXwD53Xejxj5FRCfviuPCxNbv",
+            "uiAmount": 3283998.06197578,
+            "uiAmountString": "3283998.06197578",
+            "price": 0.00771849004,
+            "value": 25347.506332739362
+          },
+          {
+            "mint": "REA3LdPusD9hX1uPdUkzYgtEojojdkHnzipQ6ERpump",
+            "amount": 247641.41351,
+            "owner": "36iv1q2T3uwRY1v3891KXwD53Xejxj5FRCfviuPCxNbv",
+            "uiAmount": 247641.41351,
+            "uiAmountString": "247641.41351",
+            "price": 3.032087,
+            "value": 750870.3105652955
+          }
+        ],
+        "solBalance": 1.005690537,
+        "netTokenAmount": 2420683.539765,
+        "totalValue": 777177.5155773184,
+        "stablecoins": 0
+      },
+      {
+        "user": "9wKTdpaP7PT77eNtATtjiJCKoa46pni5jFBfzRQeyTVJ",
+        "accounts": [
+          {
+            "mint": "4ujBiMrgyyDipqFv976xf4G6gmJem1oQT5pFLjgepump",
+            "amount": 2010182.469151,
+            "owner": "9wKTdpaP7PT77eNtATtjiJCKoa46pni5jFBfzRQeyTVJ",
+            "uiAmount": 2010182.469151,
+            "uiAmountString": "2010182.469151",
+            "price": 0.0000751898,
+            "value": 151.14521781896985
+          },
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 4.025152518,
+            "owner": "9wKTdpaP7PT77eNtATtjiJCKoa46pni5jFBfzRQeyTVJ",
+            "uiAmount": 4.025152518,
+            "uiAmountString": "4.025152518",
+            "price": 229.205319,
+            "value": 922.5863669118431
+          }
+        ],
+        "solBalance": 9.161691469,
+        "netTokenAmount": 2104963.776065,
+        "totalValue": 1082.893276199813,
+        "stablecoins": 0
+      }
+    ]
+  },
+  "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump": {
+    "totalUsersBeforeFilter": 11,
+    "totalSold": 0,
+    "TimeToBond": "0 days, 0 hours, 0 minutes, 0 seconds",
+    "users": [
+      {
+        "user": "8gsfkrwDK172s84ha7Q3gwfvkZo8L4mGdky2q78WeSoU",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 67832242.31119,
+            "owner": "8gsfkrwDK172s84ha7Q3gwfvkZo8L4mGdky2q78WeSoU",
+            "uiAmount": 67832242.31119,
+            "uiAmountString": "67832242.31119",
+            "price": 0.000126161,
+            "value": 8557.78352222204
+          }
+        ],
+        "solBalance": 1.341792068,
+        "netTokenAmount": 67832242.31119,
+        "totalValue": 8559.12531429004,
+        "stablecoins": 0
+      },
+      {
+        "user": "99A5h1cyMffJj85MZXqPnrGv3xBHsgYFbT7ypojt4XHv",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 54434631.753116,
+            "owner": "99A5h1cyMffJj85MZXqPnrGv3xBHsgYFbT7ypojt4XHv",
+            "uiAmount": 54434631.753116,
+            "uiAmountString": "54434631.753116",
+            "price": 0.000126161,
+            "value": 6867.527576604866
+          }
+        ],
+        "solBalance": 1.341792068,
+        "netTokenAmount": 54434631.753116,
+        "totalValue": 6868.869368672867,
+        "stablecoins": 0
+      },
+      {
+        "user": "HCFwpT4RrnGjZuzK5LzgNmm7nP8ZP3UFTcrQfe2Tb1mi",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 44649528.488365,
+            "owner": "HCFwpT4RrnGjZuzK5LzgNmm7nP8ZP3UFTcrQfe2Tb1mi",
+            "uiAmount": 44649528.488365,
+            "uiAmountString": "44649528.488365",
+            "price": 0.000126161,
+            "value": 5633.029163620617
+          }
+        ],
+        "solBalance": 1.341792068,
+        "netTokenAmount": 44649528.488365,
+        "totalValue": 5634.370955688617,
+        "stablecoins": 0
+      },
+      {
+        "user": "6r9yMLNhWT9hdGzBHevefqV8FmPWbrobpr4Gc8hFHTBB",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 37285277.86918,
+            "owner": "6r9yMLNhWT9hdGzBHevefqV8FmPWbrobpr4Gc8hFHTBB",
+            "uiAmount": 37285277.86918,
+            "uiAmountString": "37285277.86918",
+            "price": 0.000126161,
+            "value": 4703.9479412536175
+          }
+        ],
+        "solBalance": 1.341772068,
+        "netTokenAmount": 37285277.86918,
+        "totalValue": 4705.2897133216175,
+        "stablecoins": 0
+      },
+      {
+        "user": "4qmQVohH7tBECRc5ydPgjpVrKtYrAVDnpZKGYz3bEyyc",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 31604153.615034,
+            "owner": "4qmQVohH7tBECRc5ydPgjpVrKtYrAVDnpZKGYz3bEyyc",
+            "uiAmount": 31604153.615034,
+            "uiAmountString": "31604153.615034",
+            "price": 0.000126161,
+            "value": 3987.211624226304
+          }
+        ],
+        "solBalance": 1.341792168,
+        "netTokenAmount": 31604153.615034,
+        "totalValue": 3988.5534163943043,
+        "stablecoins": 0
+      },
+      {
+        "user": "35T2ps7y26rXM41xNZYX68JuAyEgi8uPbkoZDsxTq5Uw",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 27129552.618496,
+            "owner": "35T2ps7y26rXM41xNZYX68JuAyEgi8uPbkoZDsxTq5Uw",
+            "uiAmount": 27129552.618496,
+            "uiAmountString": "27129552.618496",
+            "price": 0.000126161,
+            "value": 3422.6914879020737
+          }
+        ],
+        "solBalance": 1.341792168,
+        "netTokenAmount": 27129552.618496,
+        "totalValue": 3424.033280070074,
+        "stablecoins": 0
+      },
+      {
+        "user": "H7jLUPDXzG3ZMJqyubVbcbCF4bN69XwucpgVnZUdQUUH",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 23542415.88448,
+            "owner": "H7jLUPDXzG3ZMJqyubVbcbCF4bN69XwucpgVnZUdQUUH",
+            "uiAmount": 23542415.88448,
+            "uiAmountString": "23542415.88448",
+            "price": 0.000126161,
+            "value": 2970.134730401881
+          }
+        ],
+        "solBalance": 1.341792168,
+        "netTokenAmount": 23542415.88448,
+        "totalValue": 2971.476522569881,
+        "stablecoins": 0
+      },
+      {
+        "user": "7anJ3kUAFPHSax9iCRCLqypKxspK2vfeSJsGpZ6TE78J",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 20622611.176371,
+            "owner": "7anJ3kUAFPHSax9iCRCLqypKxspK2vfeSJsGpZ6TE78J",
+            "uiAmount": 20622611.176371,
+            "uiAmountString": "20622611.176371",
+            "price": 0.000126161,
+            "value": 2601.7692486221417
+          }
+        ],
+        "solBalance": 1.341772168,
+        "netTokenAmount": 20622611.176371,
+        "totalValue": 2603.1110207901415,
+        "stablecoins": 0
+      },
+      {
+        "user": "9udscVrtqbiA8RFg4umGNSsQjH3SyHNrS4q2yPT53m5P",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 18214274.612065,
+            "owner": "9udscVrtqbiA8RFg4umGNSsQjH3SyHNrS4q2yPT53m5P",
+            "uiAmount": 18214274.612065,
+            "uiAmountString": "18214274.612065",
+            "price": 0.000126161,
+            "value": 2297.931099332732
+          }
+        ],
+        "solBalance": 1.341792268,
+        "netTokenAmount": 18214274.612065,
+        "totalValue": 2299.2728916007322,
+        "stablecoins": 0
+      },
+      {
+        "user": "CJYJrMD6EDsmCTaMdM43uoyrZDqA5AW6ncYZ5g4VVkC5",
+        "accounts": [
+          {
+            "mint": "79xF5saDHKmsA2dSV3myNr8DExdJPdRn8cUtHP6bpump",
+            "amount": 13823773.210165,
+            "owner": "CJYJrMD6EDsmCTaMdM43uoyrZDqA5AW6ncYZ5g4VVkC5",
+            "uiAmount": 13823773.210165,
+            "uiAmountString": "13823773.210165",
+            "price": 0.000126161,
+            "value": 1744.0210519676264
+          }
+        ],
+        "solBalance": 2.338248615,
+        "netTokenAmount": 13823773.210165,
+        "totalValue": 1746.3593005826265,
+        "stablecoins": 0
+      }
+    ]
+  },
+  "AuCc4NVrRXVUPvMJrpkJWrcprtWMhLDuAAYaKXrEpump": {
+    "totalUsersBeforeFilter": 148,
+    "totalSold": 156378804.920688,
+    "TimeToBond": "0 days, 0 hours, 1 minutes, 12 seconds",
+    "users": [
+      {
+        "user": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+        "accounts": [
+          {
+            "mint": "6saqAdVgKLBBRjN7GuF31ZDZwK9QzZG4c9qa2XkHpump",
+            "amount": 44947747.003094,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 44947747.003094,
+            "uiAmountString": "44947747.003094",
+            "price": 0.00000669434,
+            "value": 300.8955006726923
+          },
+          {
+            "mint": "4aSmCrL5SxwU1d52oyGes5Lof38yBnSAVBJRi6kRpump",
+            "amount": 40220481.701263,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 40220481.701263,
+            "uiAmountString": "40220481.701263",
+            "price": 0.0000161823,
+            "value": 650.8599010343482
+          },
+          {
+            "mint": "5g7SmUHwVRrkGKm9oEaKTgz8wfayRauLLbVx2XfDpump",
+            "amount": 39619004.003518,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 39619004.003518,
+            "uiAmountString": "39619004.003518",
+            "price": 0.00000545083,
+            "value": 215.956455592496
+          },
+          {
+            "mint": "3d1b9WMrpr4huD3dybq1ZGtTsVsbPqAeJYy9Lvwspump",
+            "amount": 39576866.833558,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 39576866.833558,
+            "uiAmountString": "39576866.833558",
+            "price": 0.00000589152,
+            "value": 233.16790248724362
+          },
+          {
+            "mint": "FtoXFt2GvLhsw8NBG7JAnLZRR1MJuYvdxUozZLDWpump",
+            "amount": 39061036.853788,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 39061036.853788,
+            "uiAmountString": "39061036.853788",
+            "price": 0.0000056933,
+            "value": 222.38620111967126
+          },
+          {
+            "mint": "9MzRWZ8xLtQG7BguqQwHb8wVbt4zQT2Br9SD6Uftpump",
+            "amount": 37620868.4463,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 37620868.4463,
+            "uiAmountString": "37620868.4463",
+            "price": 0.00000639352,
+            "value": 240.529774828788
+          },
+          {
+            "mint": "EPcKL3YuyKVLLsVFmZwZs72rNnbnaFx1bdVoxYkEpump",
+            "amount": 37290024.295977,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 37290024.295977,
+            "uiAmountString": "37290024.295977",
+            "price": 0.00000447458,
+            "value": 166.85719691429273
+          },
+          {
+            "mint": "6EqYTWQTbtXMGzeK4CKduidmrmwYfABHLWBdPLrEpump",
+            "amount": 37053335.042636,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 37053335.042636,
+            "uiAmountString": "37053335.042636",
+            "price": 0.0000071985,
+            "value": 266.7284323044152
+          },
+          {
+            "mint": "74xLx67Y2WCgDMknuiHQjYWKv6GFrEgNMTKYcEJ5pump",
+            "amount": 37044266.307086,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 37044266.307086,
+            "uiAmountString": "37044266.307086",
+            "price": 0.0000170239,
+            "value": 630.6378851852014
+          },
+          {
+            "mint": "ADhi4ymjq6pNxZftUkwTg8XYbyphp8DjgTHbKMr1pump",
+            "amount": 36622313.90103,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 36622313.90103,
+            "uiAmountString": "36622313.90103",
+            "price": 0.00000783028,
+            "value": 286.76297209295717
+          },
+          {
+            "mint": "6A2YgV64Qa36rP9Q2t6RLfMFpA5odbNwNfeWkFK9gnDs",
+            "amount": 36428834.484236,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 36428834.484236,
+            "uiAmountString": "36428834.484236",
+            "price": 0.00000499244,
+            "value": 181.86877043247918
+          },
+          {
+            "mint": "Aq6M63H1iEm5vfwVRMGuJRV3Mfh39ButHN6jNxbZpump",
+            "amount": 35504081.620976,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 35504081.620976,
+            "uiAmountString": "35504081.620976",
+            "price": 0.00000649222,
+            "value": 230.50030878133282
+          },
+          {
+            "mint": "Br78r7qSGNGVuYd9kkM3G1i2pdqb7Yt4mdRjWoGGpump",
+            "amount": 35466823.786351,
+            "owner": "8cVD2Why6CqgZZpxjipQZpSkBHuVwPrr7jhcrtQXStyB",
+            "uiAmount": 35466823.786351,
+            "uiAmountString": "35466823.786351",
+            "price": 0.0000145401,
+            "value": 515.6911645359222
+          }
+        ],
+        "solBalance": 97.024875805,
+        "netTokenAmount": 35682005.038992,
+        "totalValue": 4239.86734178684,
+        "stablecoins": 0
+      },
+      {
+        "user": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+        "accounts": [
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 10.793110916,
+            "owner": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+            "uiAmount": 10.793110916,
+            "uiAmountString": "10.793110916",
+            "price": 229.205319,
+            "value": 2473.8384305041623
+          }
+        ],
+        "solBalance": 4328.769710218,
+        "netTokenAmount": 34151489.915136,
+        "totalValue": 6814.564945545077,
+        "stablecoins": 0.0000099991
+      },
+      {
+        "user": "FDbDES9sMQyYiivrYgfES2kd9WJ2SJug7PkousqXutU9",
+        "accounts": [
+          {
+            "mint": "6vp6TQKgbWcGA2BbdS7BNDwMfocRjdZ6K5E3HTwGpump",
+            "amount": 6646311.860241,
+            "owner": "FDbDES9sMQyYiivrYgfES2kd9WJ2SJug7PkousqXutU9",
+            "uiAmount": 6646311.860241,
+            "uiAmountString": "6646311.860241",
+            "price": 0.0000404145,
+            "value": 268.6073706757099
+          }
+        ],
+        "solBalance": 28.252966218,
+        "netTokenAmount": 33025271.590986,
+        "totalValue": 296.86033689370987,
+        "stablecoins": 0
+      },
+      {
+        "user": "suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK",
+        "accounts": [
+          {
+            "mint": "XXspytSj1mPiMkfVgZg4R5qPjCgkXdb8U6BY5y6ed8Q",
+            "amount": 28668180.072215,
+            "owner": "suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK",
+            "uiAmount": 28668180.072215,
+            "uiAmountString": "28668180.072215",
+            "price": 0.00000159462,
+            "value": 45.71485330675548
+          },
+          {
+            "mint": "DrQh629XJ1CwEG6Pc8w37ePvFpdMJ98cEpxRdWKGpump",
+            "amount": 28558789.404691,
+            "owner": "suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK",
+            "uiAmount": 28558789.404691,
+            "uiAmountString": "28558789.404691",
+            "price": 0.0000589006,
+            "value": 1682.1298312099427
+          },
+          {
+            "mint": "6pYccqm9MDxvRzru764KpTtvUZ778gvE93S9JaC6pump",
+            "amount": 6323429.854782,
+            "owner": "suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK",
+            "uiAmount": 6323429.854782,
+            "uiAmountString": "6323429.854782",
+            "price": 0.000312537,
+            "value": 1976.3057965240018
+          },
+          {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "amount": 735458.69877,
+            "owner": "suqh5sHtr8HyJ7q8scBimULPkPpA557prMG47xCHQfK",
+            "uiAmount": 735458.69877,
+            "uiAmountString": "735458.69877",
+            "price": 0.99991,
+            "value": 735392.5074871107
+          }
+        ],
+        "solBalance": 4092.258188442,
+        "netTokenAmount": 27810967.203381,
+        "totalValue": 743197.8655893413,
+        "stablecoins": 735392.5074871107
+      },
+      {
+        "user": "7CLacZgGH8yBMqyXmNaqYKXCSABieesTAGzLUQoA67UW",
+        "accounts": [],
+        "solBalance": 26.879857042,
+        "netTokenAmount": 9242918.833125,
+        "totalValue": 26.879857042,
+        "stablecoins": 0
+      },
+      {
+        "user": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW",
+        "accounts": [
+          {
+            "mint": "Fcc9VgmUHZoGewBqj7PfwagjRkLXUjUniD3wRErMm9XV",
+            "amount": 408030441229.7,
+            "owner": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW",
+            "uiAmount": 408030441229.7,
+            "uiAmountString": "408030441229.7",
+            "price": 3.87192e-10,
+            "value": 157.98612260061
+          },
+          {
+            "mint": "EshxNpgfVmYKHs88dB3VLSS8mxihZxo632WAWkPGnqJG",
+            "amount": 7252909922.3875,
+            "owner": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW",
+            "uiAmount": 7252909922.3875,
+            "uiAmountString": "7252909922.3875",
+            "price": 8.77418e-9,
+            "value": 63.638337182813956
+          },
+          {
+            "mint": "7jtn2vmut9TfmzuzVoZyd3vJSSU637iQ8eJhDqCK8C7v",
+            "amount": 7097659647.463239,
+            "owner": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW",
+            "uiAmount": 7097659647.463239,
+            "uiAmountString": "7097659647.463239",
+            "price": 2.87152e-8,
+            "value": 203.8107163088364
+          },
+          {
+            "mint": "hhYm4Km9Jky98SbR2k3csPht14qXSgA7NyKG6i5NF1X",
+            "amount": 814643901.6403962,
+            "owner": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW",
+            "uiAmount": 814643901.6403964,
+            "uiAmountString": "814643901.64039626",
+            "price": 0.0000032306924,
+            "value": 2631.8638617359757
+          }
+        ],
+        "solBalance": 1033.583332248,
+        "netTokenAmount": 15790749.746683,
+        "totalValue": 4090.8834260592357,
+        "stablecoins": 0.00099991
+      },
+      {
+        "user": "FjwCmEdpV2bDeLwL9819JNwcxwjwEopK4PqfMEyzG9c2",
+        "accounts": [],
+        "solBalance": 83.414243525,
+        "netTokenAmount": 15545679.500858,
+        "totalValue": 83.414243525,
+        "stablecoins": 0
+      },
+      {
+        "user": "5YET3YapxD6to6rqPqTWB3R9pSbURy6yduuUtoZkzoPX",
+        "accounts": [
+          {
+            "mint": "DEr6v1q7w4vPRMUSgRwdpsV8Pdvt96KipzpuwpKUr6q3",
+            "amount": 5000000,
+            "owner": "5YET3YapxD6to6rqPqTWB3R9pSbURy6yduuUtoZkzoPX",
+            "uiAmount": 5000000,
+            "uiAmountString": "5000000",
+            "price": 0.00000589299,
+            "value": 29.46495
+          },
+          {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "amount": 26.135628,
+            "owner": "5YET3YapxD6to6rqPqTWB3R9pSbURy6yduuUtoZkzoPX",
+            "uiAmount": 26.135628,
+            "uiAmountString": "26.135628",
+            "price": 0.99991,
+            "value": 26.13327579348
+          }
+        ],
+        "solBalance": 4143.108427756,
+        "netTokenAmount": 3060733.04825,
+        "totalValue": 4216.413240804436,
+        "stablecoins": 26.382088726223998
+      },
+      {
+        "user": "GzpntFksqAQJ2tkLhfX8E1mnmnKDbN42W6n5jnUNugWe",
+        "accounts": [
+          {
+            "mint": "VzJoEoR8MVHgt4B7FvqeKjao1fmSdRZWmmqZoR7pump",
+            "amount": 809571.239499,
+            "owner": "GzpntFksqAQJ2tkLhfX8E1mnmnKDbN42W6n5jnUNugWe",
+            "uiAmount": 809571.239499,
+            "uiAmountString": "809571.239499",
+            "price": 0.00139184,
+            "value": 1126.7936339842884
+          },
+          {
+            "mint": "H1sWyyDceAPpGmMUxVBCHcR2LrCjz933pUyjWSLpump",
+            "amount": 396618.696612,
+            "owner": "GzpntFksqAQJ2tkLhfX8E1mnmnKDbN42W6n5jnUNugWe",
+            "uiAmount": 396618.696612,
+            "uiAmountString": "396618.696612",
+            "price": 0.010294,
+            "value": 4082.7928629239277
+          }
+        ],
+        "solBalance": 132.059706345,
+        "netTokenAmount": 12024575.677187,
+        "totalValue": 5341.646203253216,
+        "stablecoins": 0
+      },
+      {
+        "user": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+        "accounts": [
+          {
+            "mint": "71kuFnt4KNPGRpxCYjbvYFbnUjLpo928BWMQ6u8upump",
+            "amount": 25513048.814549,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 25513048.814549,
+            "uiAmountString": "25513048.814549",
+            "price": 0.0000105106,
+            "value": 268.1574508701987
+          },
+          {
+            "mint": "GK784MbMiKS9aruoZLhp3PtM13FYscbu2hoL6MLUpump",
+            "amount": 18982978.615388,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 18982978.615388,
+            "uiAmountString": "18982978.615388",
+            "price": 0.0000372993,
+            "value": 708.0518142689415
+          },
+          {
+            "mint": "BwF2MpuDTrmSwB4kNCtKaQmK3T2wpHaoKGBaA5BRpump",
+            "amount": 15000000,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 15000000,
+            "uiAmountString": "15000000",
+            "price": 0.0000226026,
+            "value": 339.039
+          },
+          {
+            "mint": "2qn52wk34BJLQvqq5KoKexg1AcoxRGPffVADqpZ5pump",
+            "amount": 10943078.786768,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 10943078.786768,
+            "uiAmountString": "10943078.786768",
+            "price": 0.0000156852,
+            "value": 171.64437938621344
+          },
+          {
+            "mint": "2eyiYzqn8HG57mtsHnmVuCSNdzg83RZMn6zMmC32pump",
+            "amount": 8048291.544689,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 8048291.544689,
+            "uiAmountString": "8048291.544689",
+            "price": 0.0000571315,
+            "value": 459.8109683853996
+          },
+          {
+            "mint": "i5pTZpKFhgwdMQJWBptiQwFws9ULYR7dUSY2aYZpump",
+            "amount": 4652389.952152,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 4652389.952152,
+            "uiAmountString": "4652389.952152",
+            "price": 0.000149023,
+            "value": 693.3131078395475
+          },
+          {
+            "mint": "GYzi3JKfJDpWgZMqQkbjyBQPYMMQTdmz8E9HG8fkpump",
+            "amount": 4396678.599003,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 4396678.599003,
+            "uiAmountString": "4396678.599003",
+            "price": 0.000246489,
+            "value": 1083.7329111896506
+          },
+          {
+            "mint": "7edPDyjF2pkySxpGKrL2mSbpFUFrdKE26zcbdmx8pump",
+            "amount": 4353100.157894,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 4353100.157894,
+            "uiAmountString": "4353100.157894",
+            "price": 0.000149994,
+            "value": 652.9389050831527
+          },
+          {
+            "mint": "5jfBtU75jk4q8xYPtnuR9GZx5YMsTQR1YyS5GuPcpump",
+            "amount": 3039895.022766,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 3039895.022766,
+            "uiAmountString": "3039895.022766",
+            "price": 0.000157176,
+            "value": 477.79854009826886
+          },
+          {
+            "mint": "6uVJY332tiYwo58g3B8p9FJRGmGZ2fUuXR8cpiaDpump",
+            "amount": 1264825.387409,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 1264825.387409,
+            "uiAmountString": "1264825.387409",
+            "price": 0.016288,
+            "value": 20601.47591011779
+          },
+          {
+            "mint": "9L9kmv6qNrjtZR85CHYppzv56UvvFQzmXiiYPxLJpump",
+            "amount": 1177931.005412,
+            "owner": "DZQ7yP5jZ2K5G9PhXKgjqWr9a7Ne2yd8tna6cXHQqXn3",
+            "uiAmount": 1177931.005412,
+            "uiAmountString": "1177931.005412",
+            "price": 0.0012468,
+            "value": 1468.6443775476816
+          }
+        ],
+        "solBalance": 16.681891991,
+        "netTokenAmount": 10455054.50145,
+        "totalValue": 26942.672566368987,
+        "stablecoins": 0
+      },
+      {
+        "user": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+        "accounts": [
+          {
+            "mint": "GL4B8RGwUNeC2mnhkydHYtfdRDB36BWaTKkkNy9Lw8ET",
+            "amount": 235766423860196.16,
+            "owner": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+            "uiAmount": 235766423860196.16,
+            "uiAmountString": "235766423860196.17",
+            "price": 1.79063e-13,
+            "value": 42.217043155678304
+          },
+          {
+            "mint": "9JDUJtFg5cbG3XccN5f6u77pVCA6ScyCjsN89j8LgEAE",
+            "amount": 113379492899827.23,
+            "owner": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+            "uiAmount": 113379492899827.23,
+            "uiAmountString": "113379492899827.24",
+            "price": 4.27425e-13,
+            "value": 48.46122975270866
+          },
+          {
+            "mint": "y7WrhyUxATe9xMmdQKGp2pcgZYZPie8wsZuCV1oUkcj",
+            "amount": 51207128196479.13,
+            "owner": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+            "uiAmount": 51207128196479.13,
+            "uiAmountString": "51207128196479.13",
+            "price": 2.01691e-12,
+            "value": 103.28016893076074
+          },
+          {
+            "mint": "8Mte5apcYY2HVKF1d2QroDUkPPtAMPK1kHcsG8G88cMM",
+            "amount": 17484402029112.12,
+            "owner": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+            "uiAmount": 17484402029112.12,
+            "uiAmountString": "17484402029112.12",
+            "price": 7.04792e-10,
+            "value": 12322.866674901989
+          },
+          {
+            "mint": "E2FWo5xdx797cVBFApJVRroo1S4cSNU1nzKC9k8pkVKP",
+            "amount": 16640496622099.59,
+            "owner": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+            "uiAmount": 16640496622099.59,
+            "uiAmountString": "16640496622099.59",
+            "price": 8.41897e-12,
+            "value": 140.0958418465578
+          },
+          {
+            "mint": "A89RSaiH3BX5ThSNSoCLSstQm83rRXMWaNyRYGtv4Ew9",
+            "amount": 10717411398819.07,
+            "owner": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+            "uiAmount": 10717411398819.07,
+            "uiAmountString": "10717411398819.07",
+            "price": 2.02835e-11,
+            "value": 217.38661410794663
+          },
+          {
+            "mint": "6YCfzgGz64rmtrJ3KbbSBvAFYNgF9oVCYa6pEvq9qTLV",
+            "amount": 3632652900489.31,
+            "owner": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+            "uiAmount": 3632652900489.31,
+            "uiAmountString": "3632652900489.31",
+            "price": 8.22784e-12,
+            "value": 29.888886840761966
+          },
+          {
+            "mint": "C5VygnmqBXAMKLbuZ8r2vpNoVitCfuXYu2ywUX8vySS7",
+            "amount": 1437938157321.4758,
+            "owner": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+            "uiAmount": 1437938157321.476,
+            "uiAmountString": "1437938157321.47594",
+            "price": 8.96864e-11,
+            "value": 128.96349675279683
+          },
+          {
+            "mint": "9ZFGp3vb4HkmrRQdyv537b9ZngEzJrRrSqbr5negz17U",
+            "amount": 211432521.3573961,
+            "owner": "CkUZV387xnoGpF7wC2moMa6mPmAgCvTT4pWgzq4M9fCD",
+            "uiAmount": 211432521.3573961,
+            "uiAmountString": "211432521.357396102",
+            "price": 9.95318521e-7,
+            "value": 210.4427044487444
+          }
+        ],
+        "solBalance": 425.030406646,
+        "netTokenAmount": 9937452.373241004,
+        "totalValue": 13685.622825217744,
+        "stablecoins": 0
+      },
+      {
+        "user": "76Yimj4n5S1oemNKPA1Tr4EBeq5DkQWXJK2NaRTnyybk",
+        "accounts": [],
+        "solBalance": 10.604205032,
+        "netTokenAmount": 9473987.789654,
+        "totalValue": 10.604205032,
+        "stablecoins": 0
+      },
+      {
+        "user": "7uQxuvVFzY3uApna9PFQEMQEUKrrwFYG4D4272aPHT1d",
+        "accounts": [],
+        "solBalance": 193.190083242,
+        "netTokenAmount": 9454097.692794,
+        "totalValue": 193.190083242,
+        "stablecoins": 0
+      },
+      {
+        "user": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+        "accounts": [
+          {
+            "mint": "8nBnEiMp4QwHaPnovG1QbZsahagqejPnVrzTWWWsZPGa",
+            "amount": 35455196.098796,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 35455196.098796,
+            "uiAmountString": "35455196.098796",
+            "price": 0.00000764914,
+            "value": 271.2017586871445
+          },
+          {
+            "mint": "J8rYxcwharM88Vr854rKcM3TRHWPsVny6FBj87fLpump",
+            "amount": 34517955.443548,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 34517955.443548,
+            "uiAmountString": "34517955.443548",
+            "price": 0.00000762053,
+            "value": 263.04511499622083
+          },
+          {
+            "mint": "J4npSZLkpZPVSqPR5dCUynZF6JKhSSzvbxv2ZUqQCctz",
+            "amount": 34504251.925311,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 34504251.925311,
+            "uiAmountString": "34504251.925311",
+            "price": 0.00000764388,
+            "value": 263.74636120684625
+          },
+          {
+            "mint": "2K1QvZEcNdzLJgPeKX5zVQqoFRBj7rJzFWUM8EdbViue",
+            "amount": 34125457.724117,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 34125457.724117,
+            "uiAmountString": "34125457.724117",
+            "price": 0.00000799461,
+            "value": 272.81972557580303
+          },
+          {
+            "mint": "FC6StgkYLsqqTsdW58c2JQ7NSx3uZ4QfijBNataPpump",
+            "amount": 34039181.717368,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 34039181.717368,
+            "uiAmountString": "34039181.717368",
+            "price": 0.0000080137,
+            "value": 272.7797905284719
+          },
+          {
+            "mint": "BjyZcUMiS44Mmf57F87Lu73EJ4C7iMA4nDimPfKapump",
+            "amount": 33946831.518288,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 33946831.518288,
+            "uiAmountString": "33946831.518288",
+            "price": 0.00000785043,
+            "value": 266.4972245561137
+          },
+          {
+            "mint": "9CFCBp4NMxjmRiJCHgtELnjFFKZKhQHL8X1TWdr9pump",
+            "amount": 32980417.123107,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 32980417.123107,
+            "uiAmountString": "32980417.123107",
+            "price": 0.00000757525,
+            "value": 249.8349048118163
+          },
+          {
+            "mint": "Fc2tQhmbwdhj3cgaqjxG2uvbzZE456tstT1v7KCAgQoB",
+            "amount": 32835500.253302,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 32835500.253302,
+            "uiAmountString": "32835500.253302",
+            "price": 0.00000846348,
+            "value": 277.9025996838164
+          },
+          {
+            "mint": "A4awx4kDoc7uEFGWz5D4J9LJoCmeXwPLmJpkKWSSpump",
+            "amount": 32725105.659803,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 32725105.659803,
+            "uiAmountString": "32725105.659803",
+            "price": 0.00000903757,
+            "value": 295.75543315786575
+          },
+          {
+            "mint": "GfC3vBysZksoaWsdQ1VXRebRz6iP59386mwsBZeWf7x4",
+            "amount": 32486290.020528,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 32486290.020528,
+            "uiAmountString": "32486290.020528",
+            "price": 0.0000113461,
+            "value": 368.5926952019127
+          },
+          {
+            "mint": "34MEkZG9twFGbVh4pzJdQQf31adh2BzP7zZw12uspump",
+            "amount": 32296460.373899,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 32296460.373899,
+            "uiAmountString": "32296460.373899",
+            "price": 0.00000796506,
+            "value": 257.24324466572796
+          },
+          {
+            "mint": "3mLpGB9FKJQ8SHKpV6GGp5d2cC6ZV5QWzVoZdUmjpump",
+            "amount": 31992370.729966,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 31992370.729966,
+            "uiAmountString": "31992370.729966",
+            "price": 0.00000794227,
+            "value": 254.09204627748704
+          },
+          {
+            "mint": "FVdC7rUCJ9vHzWE5HcWZJFGaHLhozAe5F59u92htpump",
+            "amount": 31850798.973286,
+            "owner": "8EG8Jbt4N35E3AuCqHBWp1rQqSEeTH4MYcgfsAHvwRvw",
+            "uiAmount": 31850798.973286,
+            "uiAmountString": "31850798.973286",
+            "price": 0.00000792362,
+            "value": 252.3736277607084
+          }
+        ],
+        "solBalance": 39.55291118,
+        "netTokenAmount": 9443076.38704,
+        "totalValue": 3605.4374382899355,
+        "stablecoins": 0
+      },
+      {
+        "user": "DXn8NaHghxz5A7BfexFjyQXMpF6TAxwm3RaUtMGjRyKz",
+        "accounts": [
+          {
+            "mint": "DX1aPr4dsbm2y7eB1jb6sXXPE8y7h17vTtA6g8dwpump",
+            "amount": 3573862.34739,
+            "owner": "DXn8NaHghxz5A7BfexFjyQXMpF6TAxwm3RaUtMGjRyKz",
+            "uiAmount": 3573862.34739,
+            "uiAmountString": "3573862.34739",
+            "price": 0.00000566579,
+            "value": 20.248753549218787
+          },
+          {
+            "mint": "4oJh9x5Cr14bfaBtUsXN1YUZbxRhuae9nrkSyWGSpump",
+            "amount": 2699029.136521,
+            "owner": "DXn8NaHghxz5A7BfexFjyQXMpF6TAxwm3RaUtMGjRyKz",
+            "uiAmount": 2699029.136521,
+            "uiAmountString": "2699029.136521",
+            "price": 0.000386926,
+            "value": 1044.3245476775244
+          }
+        ],
+        "solBalance": 122.834972306,
+        "netTokenAmount": 9227225.352892,
+        "totalValue": 1211.385812505292,
+        "stablecoins": 0
+      },
+      {
+        "user": "ErYLXMs7aKgBWLL8C42SWVMD3v2Ez9hjcUJWyGSNqkhJ",
+        "accounts": [
+          {
+            "mint": "3wJA6TkV5cWVThFabKwnfdtMRAugdGtppTgAY599pump",
+            "amount": 35307565.510498,
+            "owner": "ErYLXMs7aKgBWLL8C42SWVMD3v2Ez9hjcUJWyGSNqkhJ",
+            "uiAmount": 35307565.510498,
+            "uiAmountString": "35307565.510498",
+            "price": 0.00000769115,
+            "value": 271.5557824760667
+          },
+          {
+            "mint": "7QgkZhhEmBz7xmRXDMN1wRqMPq6vt123FhDcBYTypump",
+            "amount": 32572283.947812,
+            "owner": "ErYLXMs7aKgBWLL8C42SWVMD3v2Ez9hjcUJWyGSNqkhJ",
+            "uiAmount": 32572283.947812,
+            "uiAmountString": "32572283.947812",
+            "price": 0.00000731731,
+            "value": 238.34149905416422
+          },
+          {
+            "mint": "kXcULkKB2tUfAFhwGYiVG3cbRs1CBMD2GCZWJn6pump",
+            "amount": 19510693.980043,
+            "owner": "ErYLXMs7aKgBWLL8C42SWVMD3v2Ez9hjcUJWyGSNqkhJ",
+            "uiAmount": 19510693.980043,
+            "uiAmountString": "19510693.980043",
+            "price": 0.0000171942,
+            "value": 335.47077443165534
+          },
+          {
+            "mint": "BJw4AZugiWsdg2p1BMfDG8uta87BFctpp4BYUupSpump",
+            "amount": 5216834.986956,
+            "owner": "ErYLXMs7aKgBWLL8C42SWVMD3v2Ez9hjcUJWyGSNqkhJ",
+            "uiAmount": 5216834.986956,
+            "uiAmountString": "5216834.986956",
+            "price": 0.0000600061,
+            "value": 313.04192191078045
+          },
+          {
+            "mint": "DqWf9DDK6H5c7KmEHkNJxnzNPSM6mzxonZJjK6yxpump",
+            "amount": 3694389.542504,
+            "owner": "ErYLXMs7aKgBWLL8C42SWVMD3v2Ez9hjcUJWyGSNqkhJ",
+            "uiAmount": 3694389.542504,
+            "uiAmountString": "3694389.542504",
+            "price": 0.000139588,
+            "value": 515.6924474590484
+          }
+        ],
+        "solBalance": 6.620881261,
+        "netTokenAmount": 8223504.747025,
+        "totalValue": 1680.723306592715,
+        "stablecoins": 0
+      },
+      {
+        "user": "ASqyMcz5XaA4K2wZFFYKU2wRajvHAGCokXuKdDCoSRdT",
+        "accounts": [
+          {
+            "mint": "BKYWX2awYqinXxn9eHijgMkTsX3dG3msKebVMQuApump",
+            "amount": 7977217.110349,
+            "owner": "ASqyMcz5XaA4K2wZFFYKU2wRajvHAGCokXuKdDCoSRdT",
+            "uiAmount": 7977217.110349,
+            "uiAmountString": "7977217.110349",
+            "price": 0.0000045878,
+            "value": 36.59787665885915
+          },
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 12.101265518,
+            "owner": "ASqyMcz5XaA4K2wZFFYKU2wRajvHAGCokXuKdDCoSRdT",
+            "uiAmount": 12.101265518,
+            "uiAmountString": "12.101265518",
+            "price": 229.205319,
+            "value": 2773.67442335689
+          }
+        ],
+        "solBalance": 45.081470529,
+        "netTokenAmount": 7931392.932603,
+        "totalValue": 2855.3537705447493,
+        "stablecoins": 0
+      },
+      {
+        "user": "DgqpDh7e8jwUqShMShMid8yVxVYmZyj7xYNXtF4FD8m4",
+        "accounts": [],
+        "solBalance": 12.259129435,
+        "netTokenAmount": 6461731.198006,
+        "totalValue": 46.837767216135134,
+        "stablecoins": 0
+      },
+      {
+        "user": "FxC1VjdWYS6Macwh7KKaVCHigmK9ZJo5geLnu3uNAWVC",
+        "accounts": [],
+        "solBalance": 19.53479303,
+        "netTokenAmount": 6334496.678741,
+        "totalValue": 48.16608898053795,
+        "stablecoins": 0
+      },
+      {
+        "user": "9JKHvmWmGpqPpK8S7Qjmr95fZnmuBi9nuYfukJitQxBS",
+        "accounts": [],
+        "solBalance": 32.737983713,
+        "netTokenAmount": 6198890.9396,
+        "totalValue": 32.737983713,
+        "stablecoins": 0
+      },
+      {
+        "user": "DMzpy9z2dxxxu8oDETRuvALv9xuynT6aYHJUPQEMB4Rt",
+        "accounts": [
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 3.872433954,
+            "owner": "DMzpy9z2dxxxu8oDETRuvALv9xuynT6aYHJUPQEMB4Rt",
+            "uiAmount": 3.872433954,
+            "uiAmountString": "3.872433954",
+            "price": 229.205319,
+            "value": 887.5824597330013
+          }
+        ],
+        "solBalance": 1.262204837,
+        "netTokenAmount": 3788994.4,
+        "totalValue": 888.8446645700013,
+        "stablecoins": 0
+      },
+      {
+        "user": "8hzdfhYx2pit7ThPZQXgF66yGF8Wf1MhjzNc6sXS4gEq",
+        "accounts": [
+          {
+            "mint": "H1sWyyDceAPpGmMUxVBCHcR2LrCjz933pUyjWSLpump",
+            "amount": 1032647.396429,
+            "owner": "8hzdfhYx2pit7ThPZQXgF66yGF8Wf1MhjzNc6sXS4gEq",
+            "uiAmount": 1032647.396429,
+            "uiAmountString": "1032647.396429",
+            "price": 0.010294,
+            "value": 10630.072298840125
+          },
+          {
+            "mint": "2q8Y8rubbsaaA3faq8Ytsk382JXgtKdn23qjNXhSpump",
+            "amount": 586424.589652,
+            "owner": "8hzdfhYx2pit7ThPZQXgF66yGF8Wf1MhjzNc6sXS4gEq",
+            "uiAmount": 586424.589652,
+            "uiAmountString": "586424.589652",
+            "price": 0.015453,
+            "value": 9062.019183892357
+          },
+          {
+            "mint": "8FqXr6dw5NHA2TtwFeDz6q9p7y9uWyoEdZmpXqqUpump",
+            "amount": 408048.04162,
+            "owner": "8hzdfhYx2pit7ThPZQXgF66yGF8Wf1MhjzNc6sXS4gEq",
+            "uiAmount": 408048.04162,
+            "uiAmountString": "408048.04162",
+            "price": 0.020351,
+            "value": 8304.18569500862
+          },
+          {
+            "mint": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+            "amount": 161618.38895,
+            "owner": "8hzdfhYx2pit7ThPZQXgF66yGF8Wf1MhjzNc6sXS4gEq",
+            "uiAmount": 161618.38895,
+            "uiAmountString": "161618.38895",
+            "price": 0.264879,
+            "value": 42809.317246687046
+          }
+        ],
+        "solBalance": 50.209159078,
+        "netTokenAmount": 5516372.844805,
+        "totalValue": 70856.37020895483,
+        "stablecoins": 0
+      },
+      {
+        "user": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+        "accounts": [
+          {
+            "mint": "5sY9hvAmqefETYV4YioUdPSHYs4QG7KZ7YRBK3fE5D8E",
+            "amount": 5694007400.911125,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 5694007400.911125,
+            "uiAmountString": "5694007400.91112534",
+            "price": 6.3192584e-8,
+            "value": 359.81904097869796
+          },
+          {
+            "mint": "4fHyupYsrdf1B4wVtcPi2bwg5UnobJczJrDGGwFZu957",
+            "amount": 78207495.96693969,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 78207495.96693967,
+            "uiAmountString": "78207495.966939686",
+            "price": 0.00000217959142,
+            "value": 170.4603871892263
+          },
+          {
+            "mint": "7v5gimdqrmiuTnvTg4g5yhpj3dU4vCdcsdtJkr2eNFXN",
+            "amount": 64808586.41890308,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 64808586.41890308,
+            "uiAmountString": "64808586.418903081",
+            "price": 0.00000513125773,
+            "value": 332.54956003236947
+          },
+          {
+            "mint": "FEmUDV3jSnA9ayHvrETtXjQwQacuqBCpF4BVoHBApump",
+            "amount": 54721917.2846,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 54721917.2846,
+            "uiAmountString": "54721917.2846",
+            "price": 0.0000044521,
+            "value": 243.62744794276765
+          },
+          {
+            "mint": "4ZsfAF6jyvdjSg376cZAVs9dieR2pnwWwFFTg716pump",
+            "amount": 53787830.025315,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 53787830.025315,
+            "uiAmountString": "53787830.025315",
+            "price": 0.00000450146,
+            "value": 242.12376534575446
+          },
+          {
+            "mint": "A9TZgihv1yCkJMpmvBJoEHEQVf9nDK7mp9WGTucvpump",
+            "amount": 53208866.721199,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 53208866.721199,
+            "uiAmountString": "53208866.721199",
+            "price": 0.00000481833,
+            "value": 256.37787878875474
+          },
+          {
+            "mint": "CGb4iENaCCcW3GrPKuqTE94hmUPDtukdXMcZUqENpump",
+            "amount": 52842346.013616,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 52842346.013616,
+            "uiAmountString": "52842346.013616",
+            "price": 0.00000536514,
+            "value": 283.5065842914918
+          },
+          {
+            "mint": "7PFEAuN9Zdr3eTAHtzp8NVtNSQ6j92MRoB768rCNpump",
+            "amount": 52667340.789766,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 52667340.789766,
+            "uiAmountString": "52667340.789766",
+            "price": 0.00000492001,
+            "value": 259.1238433590566
+          },
+          {
+            "mint": "2m2zsQkktkiC96iMtc8X5nXinscXrgLUvAowXvU3pump",
+            "amount": 50449565.398127,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 50449565.398127,
+            "uiAmountString": "50449565.398127",
+            "price": 0.0000108028,
+            "value": 544.9965650828863
+          },
+          {
+            "mint": "Aq3dUKuJrVf5YbzWvKTCJntFGmz8BWbVGkfYtu8rpump",
+            "amount": 50074998.0779,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 50074998.0779,
+            "uiAmountString": "50074998.0779",
+            "price": 0.00000479831,
+            "value": 240.27536402716837
+          },
+          {
+            "mint": "V6ShHDZpG6UmY9cVmbsNCD91evzDWBfc4AtKC2Jpump",
+            "amount": 49522257.905283,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 49522257.905283,
+            "uiAmountString": "49522257.905283",
+            "price": 0.00000493336,
+            "value": 244.3111262596069
+          },
+          {
+            "mint": "CXTmGKtsuZxQmg2eooXdhYea9neFG6ByLmcHN7g3pump",
+            "amount": 48917375.1902,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 48917375.1902,
+            "uiAmountString": "48917375.1902",
+            "price": 0.0000053133,
+            "value": 259.9126895980896
+          },
+          {
+            "mint": "DmSTXtLdfzfesWksYS4s9PKwikDDw9yuFeg4ZLn6pump",
+            "amount": 47634044.923316,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 47634044.923316,
+            "uiAmountString": "47634044.923316",
+            "price": 0.0000052627,
+            "value": 250.6836882179351
+          },
+          {
+            "mint": "7hyuwssmprpoinaQNGpUC37FXi6kAJZ6jXZMKY2dpump",
+            "amount": 47614741.63461,
+            "owner": "99qdWpLPr4ZjZaaLjH7pPSB8Aymzcykb5BPLKp4o7oo4",
+            "uiAmount": 47614741.63461,
+            "uiAmountString": "47614741.63461",
+            "price": 0.00000507087,
+            "value": 241.44816491269478
+          }
+        ],
+        "solBalance": 227.624264208,
+        "netTokenAmount": 5225975.677136,
+        "totalValue": 4158.8401902344995,
+        "stablecoins": 1.99982
+      },
+      {
+        "user": "9wF2mJHESjWaAzqY1YPxikDhrDDWJXfWeko31PCEgd6s",
+        "accounts": [
+          {
+            "mint": "H3FEwVMoLnHKeNPK8Ue6uDKEBAjovPPXoYvjvR1Lpump",
+            "amount": 7939716.77375,
+            "owner": "9wF2mJHESjWaAzqY1YPxikDhrDDWJXfWeko31PCEgd6s",
+            "uiAmount": 7939716.77375,
+            "uiAmountString": "7939716.77375",
+            "price": 0.0000210111,
+            "value": 166.8221831049386
+          },
+          {
+            "mint": "XHRB4fJfRthiUq5ykttEXjaCZHLswUTj6MpV3Wmpump",
+            "amount": 6067036.236157,
+            "owner": "9wF2mJHESjWaAzqY1YPxikDhrDDWJXfWeko31PCEgd6s",
+            "uiAmount": 6067036.236157,
+            "uiAmountString": "6067036.236157",
+            "price": 0.000019956,
+            "value": 121.07377512874909
+          },
+          {
+            "mint": "4ujBiMrgyyDipqFv976xf4G6gmJem1oQT5pFLjgepump",
+            "amount": 2418451.251766,
+            "owner": "9wF2mJHESjWaAzqY1YPxikDhrDDWJXfWeko31PCEgd6s",
+            "uiAmount": 2418451.251766,
+            "uiAmountString": "2418451.251766",
+            "price": 0.0000751898,
+            "value": 181.8428659300352
+          }
+        ],
+        "solBalance": 25.262860542,
+        "netTokenAmount": 3916234.108678,
+        "totalValue": 495.0016847057229,
+        "stablecoins": 0
+      },
+      {
+        "user": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+        "accounts": [
+          {
+            "mint": "7s2E3dvrniSxaPdfx5GF3JKw7ingn14Bpfw9jA76pump",
+            "amount": 12328782.19404,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 12328782.19404,
+            "uiAmountString": "12328782.19404",
+            "price": 0.0000117261,
+            "value": 144.56853288553245
+          },
+          {
+            "mint": "BTHNoqmsjVsRETiysVwQdiDte2shd54GrMnZgmBapump",
+            "amount": 11478967.706998,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 11478967.706998,
+            "uiAmountString": "11478967.706998",
+            "price": 0.0000146793,
+            "value": 168.50321066133574
+          },
+          {
+            "mint": "B3CTecbXarvyWTYQT5rQV3Di48wnjpgtbvSKc179pump",
+            "amount": 11394735.394117,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 11394735.394117,
+            "uiAmountString": "11394735.394117",
+            "price": 0.000019341,
+            "value": 220.3855772576169
+          },
+          {
+            "mint": "4xuhY9P13wLZu7Kjy6mpm6LMTYgTj3imWq7HCNZGpump",
+            "amount": 10959842.651264,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 10959842.651264,
+            "uiAmountString": "10959842.651264",
+            "price": 0.0000104642,
+            "value": 114.68598547135676
+          },
+          {
+            "mint": "WqteAAXS4j5WdRpBEwRUBse6ANqtHNascduwSnVpump",
+            "amount": 10203364.100927,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 10203364.100927,
+            "uiAmountString": "10203364.100927",
+            "price": 0.0000136203,
+            "value": 138.97288006385602
+          },
+          {
+            "mint": "45et7n3zMmVDAncKN6BJAczcEXHswSaLmyVgk3R4pump",
+            "amount": 9036902.277716,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 9036902.277716,
+            "uiAmountString": "9036902.277716",
+            "price": 0.00000798082,
+            "value": 72.1218904360414
+          },
+          {
+            "mint": "F7k8Cua7ZeFCJb8xutrRRAr1bjXmuSPqdr9t2ym9pump",
+            "amount": 8945068.917917,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 8945068.917917,
+            "uiAmountString": "8945068.917917",
+            "price": 0.0000157825,
+            "value": 141.17555019702505
+          },
+          {
+            "mint": "DJMEGuJfvmDVwWEypMnGYoof8EztabzjKAqf8eCbpump",
+            "amount": 8452215.766292,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 8452215.766292,
+            "uiAmountString": "8452215.766292",
+            "price": 0.0000201255,
+            "value": 170.10506840450964
+          },
+          {
+            "mint": "EKqVaZPUrCjq3XLPwXFMD6SJU1P8qKA25X8Rv4mdpump",
+            "amount": 8333301.108893,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 8333301.108893,
+            "uiAmountString": "8333301.108893",
+            "price": 0.0000127988,
+            "value": 106.65625423249972
+          },
+          {
+            "mint": "3vRSr7Z2poftXyC2h2mhBEGPzYv23RFRiXeGnhTQpump",
+            "amount": 8205825.471466,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 8205825.471466,
+            "uiAmountString": "8205825.471466",
+            "price": 0.0000211078,
+            "value": 173.20692288661004
+          },
+          {
+            "mint": "AiYAMzfu86AH5oHYRvcBMvagAyL5k6Lhfg3f5qPXpump",
+            "amount": 8076668.969351,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 8076668.969351,
+            "uiAmountString": "8076668.969351",
+            "price": 0.000010251,
+            "value": 82.79393360481711
+          },
+          {
+            "mint": "BiVrV7ziFCtATKP6RgYwyhxzKYjm2nbePu1pZZ3vpump",
+            "amount": 7956857.705626,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 7956857.705626,
+            "uiAmountString": "7956857.705626",
+            "price": 0.0000118039,
+            "value": 93.92195267143875
+          },
+          {
+            "mint": "71Z1R79UqHKCEoABbhpKpT7nKBekpzygaJeprCVNpump",
+            "amount": 7737789.243317,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 7737789.243317,
+            "uiAmountString": "7737789.243317",
+            "price": 0.0000105003,
+            "value": 81.2491083916015
+          },
+          {
+            "mint": "8HNFUqGQ8BfSUrFKhTZQwNUBpEWmAddqt79iKyN1pump",
+            "amount": 7612502.841408,
+            "owner": "EpPHn91JDNSdwjCgjaM8SiCH2t32AMU4BwYa9GQAMvA3",
+            "uiAmount": 7612502.841408,
+            "uiAmountString": "7612502.841408",
+            "price": 0.000011261,
+            "value": 85.72439449709549
+          }
+        ],
+        "solBalance": 63.565126748,
+        "netTokenAmount": 4059480.85462,
+        "totalValue": 1876.5466063365366,
+        "stablecoins": 18.910217927199998
+      },
+      {
+        "user": "CAfbFdtig8Tyc9NifDy1H1CbjAgXTtP6a1N9NbnhTYh1",
+        "accounts": [
+          {
+            "mint": "7fU1cGDU2hRPGj5ubkcAfLkj4jKcXr6PGsF2f9p5pump",
+            "amount": 3158456.542943,
+            "owner": "CAfbFdtig8Tyc9NifDy1H1CbjAgXTtP6a1N9NbnhTYh1",
+            "uiAmount": 3158456.542943,
+            "uiAmountString": "3158456.542943",
+            "price": 0.000182039,
+            "value": 574.9622706208007
+          },
+          {
+            "mint": "A5o97YGXDgekXdM3HmoEipv8PNgq6ABLyPMc9MnApump",
+            "amount": 436653.539309,
+            "owner": "CAfbFdtig8Tyc9NifDy1H1CbjAgXTtP6a1N9NbnhTYh1",
+            "uiAmount": 436653.539309,
+            "uiAmountString": "436653.539309",
+            "price": 0.000327341,
+            "value": 142.93460621094738
+          },
+          {
+            "mint": "B1b5S8gbjTywDWNcGRxpVcXCwhEBcQ8z4RbCU7454LRz",
+            "amount": 121215.63333,
+            "owner": "CAfbFdtig8Tyc9NifDy1H1CbjAgXTtP6a1N9NbnhTYh1",
+            "uiAmount": 121215.63333,
+            "uiAmountString": "121215.63333",
+            "price": 0.000334663,
+            "value": 40.56638749711779
+          }
+        ],
+        "solBalance": 0.361695882,
+        "netTokenAmount": 3784166.1334570004,
+        "totalValue": 758.824960210866,
+        "stablecoins": 0
+      },
+      {
+        "user": "FaggotEnT6CigQHPXeUTh4q21nY54CoL5xSCFcqs6VN5",
+        "accounts": [
+          {
+            "mint": "VzJoEoR8MVHgt4B7FvqeKjao1fmSdRZWmmqZoR7pump",
+            "amount": 144462.450184,
+            "owner": "FaggotEnT6CigQHPXeUTh4q21nY54CoL5xSCFcqs6VN5",
+            "uiAmount": 144462.450184,
+            "uiAmountString": "144462.450184",
+            "price": 0.00139184,
+            "value": 201.06861666409856
+          },
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 31.97577933,
+            "owner": "FaggotEnT6CigQHPXeUTh4q21nY54CoL5xSCFcqs6VN5",
+            "uiAmount": 31.97577933,
+            "uiAmountString": "31.97577933",
+            "price": 229.205319,
+            "value": 7329.018701606256
+          }
+        ],
+        "solBalance": 88.654539237,
+        "netTokenAmount": 3562921,
+        "totalValue": 7618.741857507355,
+        "stablecoins": 0
+      },
+      {
+        "user": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+        "accounts": [
+          {
+            "mint": "3NWDSgtyNaXhdprqgPPH4h59XgZ8UoK9nUo1YwoTpump",
+            "amount": 10511612.394931,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 10511612.394931,
+            "uiAmountString": "10511612.394931",
+            "price": 0.0000100918,
+            "value": 106.08108996716467
+          },
+          {
+            "mint": "3XeSRS81sqWRvtkuQacDMP8Mj7D61iSoCHBuPuRdpump",
+            "amount": 8952140.415657,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 8952140.415657,
+            "uiAmountString": "8952140.415657",
+            "price": 0.0000047577,
+            "value": 42.591598455571315
+          },
+          {
+            "mint": "9Bpswxo1PdwuLGSLm2vuJsQ7XfuBRGecDdF9L24ss7ub",
+            "amount": 8183833.282917,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 8183833.282917,
+            "uiAmountString": "8183833.282917",
+            "price": 0.00000555872,
+            "value": 45.491637746416394
+          },
+          {
+            "mint": "BNv4ktQE4iSpuJVLJBWAvZ51EPYWFXHuLToQ3EA7pump",
+            "amount": 6150606.71142,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 6150606.71142,
+            "uiAmountString": "6150606.71142",
+            "price": 0.00000679152,
+            "value": 41.771968492743156
+          },
+          {
+            "mint": "G9ir1jzBZSzYFnvtwfAaVU6ZZMbuz6GoyHvWmDP8pump",
+            "amount": 6100774.222389,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 6100774.222389,
+            "uiAmountString": "6100774.222389",
+            "price": 0.000006799,
+            "value": 41.47916393802281
+          },
+          {
+            "mint": "9VnperQx78FrXmVCVRwe5QdmWHpgQU9rvavyCAampump",
+            "amount": 4248176.045543,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 4248176.045543,
+            "uiAmountString": "4248176.045543",
+            "price": 0.0000237496,
+            "value": 100.89248181122804
+          },
+          {
+            "mint": "2HjFsN95kNtvekRSRD2qLrE558GYqDftXLNrbgTLpump",
+            "amount": 4079491.159641,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 4079491.159641,
+            "uiAmountString": "4079491.159641",
+            "price": 0.00000705828,
+            "value": 28.794190862270877
+          },
+          {
+            "mint": "2ZLu94R4EAzKMqjdTneJFLFnEo5LaDea5r2sLZbGpump",
+            "amount": 3883619.597878,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 3883619.597878,
+            "uiAmountString": "3883619.597878",
+            "price": 0.0000220384,
+            "value": 85.58876214587451
+          },
+          {
+            "mint": "8veuiLJTtFABHkSbD5CJx9qjAnob4UVniRWLQ7Egpump",
+            "amount": 3747154.972119,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 3747154.972119,
+            "uiAmountString": "3747154.972119",
+            "price": 0.00000751711,
+            "value": 28.167776112465457
+          },
+          {
+            "mint": "Ai3d3rrExfDnDLtyGN5idJc2iurkWbrcESMiMMd6HpFZ",
+            "amount": 3497802.881081,
+            "owner": "2diB2nJApBr4WiYCPcLJvEwTbaRpHnZNCgzskrafFGQ7",
+            "uiAmount": 3497802.881081,
+            "uiAmountString": "3497802.881081",
+            "price": 0.00000571818,
+            "value": 20.00106647853975
+          }
+        ],
+        "solBalance": 0.117457399,
+        "netTokenAmount": 3465274.658681,
+        "totalValue": 558.6408716034382,
+        "stablecoins": 0
+      },
+      {
+        "user": "Du2FzwKkehjkzF8oarbnJd2wM5v3fARSvjM6WW4fgZxx",
+        "accounts": [],
+        "solBalance": 16.371331692,
+        "netTokenAmount": 3463128.108615,
+        "totalValue": 31.682963754155793,
+        "stablecoins": 0
+      },
+      {
+        "user": "HvEkrBsWBCbJ6U4PCmW9FdgfaPL82BqDxxKcRz4bV4WJ",
+        "accounts": [],
+        "solBalance": 0.11213529,
+        "netTokenAmount": 3263215.93689,
+        "totalValue": 0.11213529,
+        "stablecoins": 0
+      },
+      {
+        "user": "C5CPrNfLpA9vmmyMEea4KLQzHtT3mfT6B8X4GMhMu9rn",
+        "accounts": [
+          {
+            "mint": "Evc6zPCzmJ6b5Vorb4o8Boonerbcaxpe1B95TJDcpump",
+            "amount": 3036925.156764,
+            "owner": "C5CPrNfLpA9vmmyMEea4KLQzHtT3mfT6B8X4GMhMu9rn",
+            "uiAmount": 3036925.156764,
+            "uiAmountString": "3036925.156764",
+            "price": 0.0000100059,
+            "value": 30.38716942606491
+          }
+        ],
+        "solBalance": 8.893052431,
+        "netTokenAmount": 3059246.94091,
+        "totalValue": 39.28022185710723,
+        "stablecoins": 0
+      },
+      {
+        "user": "CjNrKnTfohbu9QyKReR4mDBFwufbt73sWvpfQ9RhAcYk",
+        "accounts": [
+          {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "amount": 10188.09075,
+            "owner": "CjNrKnTfohbu9QyKReR4mDBFwufbt73sWvpfQ9RhAcYk",
+            "uiAmount": 10188.09075,
+            "uiAmountString": "10188.09075",
+            "price": 0.99991,
+            "value": 10187.173821832499
+          }
+        ],
+        "solBalance": 7.712237938,
+        "netTokenAmount": 2983301.536292,
+        "totalValue": 10199.722510570218,
+        "stablecoins": 10187.173821832499
+      },
+      {
+        "user": "31TENztsWNnRZpXZym6NwxFoDEw7mhqDNJGdxTHtAjMp",
+        "accounts": [
+          {
+            "mint": "5sY9hvAmqefETYV4YioUdPSHYs4QG7KZ7YRBK3fE5D8E",
+            "amount": 2353406222.451075,
+            "owner": "31TENztsWNnRZpXZym6NwxFoDEw7mhqDNJGdxTHtAjMp",
+            "uiAmount": 2353406222.451075,
+            "uiAmountString": "2353406222.45107519",
+            "price": 6.3192584e-8,
+            "value": 148.71782039836225
+          },
+          {
+            "mint": "KUXZtSbHg1bqXXHnBFsJu3Xhm9Lc8jwmmqB4YG8pump",
+            "amount": 30529691.119778,
+            "owner": "31TENztsWNnRZpXZym6NwxFoDEw7mhqDNJGdxTHtAjMp",
+            "uiAmount": 30529691.119778,
+            "uiAmountString": "30529691.119778",
+            "price": 0.00000617144,
+            "value": 188.41215696424274
+          },
+          {
+            "mint": "38yWBs78PWVwiwN8iwKpNQBqnR67kd33wFNg4C5Spump",
+            "amount": 26758488.194521,
+            "owner": "31TENztsWNnRZpXZym6NwxFoDEw7mhqDNJGdxTHtAjMp",
+            "uiAmount": 26758488.194521,
+            "uiAmountString": "26758488.194521",
+            "price": 0.00000454194,
+            "value": 121.5354478702227
+          },
+          {
+            "mint": "8yQvmuetyw6HDamKERy9iDRiTF3Np2V4HitGzr8mVa3W",
+            "amount": 11936173.168604,
+            "owner": "31TENztsWNnRZpXZym6NwxFoDEw7mhqDNJGdxTHtAjMp",
+            "uiAmount": 11936173.168604,
+            "uiAmountString": "11936173.168604",
+            "price": 0.0000176343,
+            "value": 210.48605850711354
+          },
+          {
+            "mint": "C6pYjTjfbsQkLPqkBw5a9npQbQ4PYsUibcVi7ZBXG8wq",
+            "amount": 10365487.341396,
+            "owner": "31TENztsWNnRZpXZym6NwxFoDEw7mhqDNJGdxTHtAjMp",
+            "uiAmount": 10365487.341396,
+            "uiAmountString": "10365487.341396",
+            "price": 0.0000217384,
+            "value": 225.3291100222028
+          },
+          {
+            "mint": "J6zBid54qK1BJmupjZGniUcMsqzbyLi4ggMsjwpQpump",
+            "amount": 10172446.249261,
+            "owner": "31TENztsWNnRZpXZym6NwxFoDEw7mhqDNJGdxTHtAjMp",
+            "uiAmount": 10172446.249261,
+            "uiAmountString": "10172446.249261",
+            "price": 0.0000222763,
+            "value": 226.60446438241277
+          },
+          {
+            "mint": "GoEwiCAMXr82ujKehectB3THPgY8B9EC6sia5qdypump",
+            "amount": 10096826.437923,
+            "owner": "31TENztsWNnRZpXZym6NwxFoDEw7mhqDNJGdxTHtAjMp",
+            "uiAmount": 10096826.437923,
+            "uiAmountString": "10096826.437923",
+            "price": 0.00000536887,
+            "value": 54.20854855777165
+          },
+          {
+            "mint": "FZnSMd1hPu5MVgttmtfDZUPN5gcuexvrh3CB67UuQshb",
+            "amount": 8006730.991518,
+            "owner": "31TENztsWNnRZpXZym6NwxFoDEw7mhqDNJGdxTHtAjMp",
+            "uiAmount": 8006730.991518,
+            "uiAmountString": "8006730.991518",
+            "price": 0.000406089,
+            "value": 3251.4453816145533
+          }
+        ],
+        "solBalance": 14.384557817,
+        "netTokenAmount": 2907414.818783,
+        "totalValue": 4441.166388651941,
+        "stablecoins": 0
+      },
+      {
+        "user": "AdJpcdmmYtojyxMP2FrnFfv84GQosR9zPPi8qo2JfZtb",
+        "accounts": [],
+        "solBalance": 2.897116608,
+        "netTokenAmount": 2824036.222333,
+        "totalValue": 3.6136662709720526,
+        "stablecoins": 0
+      },
+      {
+        "user": "F5SY94vvZKUQvQKt5Zwn1hUVNHwN4AwHXgAXDZtigBEY",
+        "accounts": [
+          {
+            "mint": "E6NhQqtJ1Pxt7rmZcr3RZkToTHJxj276WC5efDWVpump",
+            "amount": 32536442.028653,
+            "owner": "F5SY94vvZKUQvQKt5Zwn1hUVNHwN4AwHXgAXDZtigBEY",
+            "uiAmount": 32536442.028653,
+            "uiAmountString": "32536442.028653",
+            "price": 0.0000118649,
+            "value": 386.041631025765
+          },
+          {
+            "mint": "CAZm4pVTLjxFLtB8aRQRe1K3KfQb6L7CepAVvSvgJvEx",
+            "amount": 902620.58845,
+            "owner": "F5SY94vvZKUQvQKt5Zwn1hUVNHwN4AwHXgAXDZtigBEY",
+            "uiAmount": 902620.58845,
+            "uiAmountString": "902620.58845",
+            "price": 0.0000465568,
+            "value": 42.02312621234896
+          },
+          {
+            "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "amount": 3078.158612,
+            "owner": "F5SY94vvZKUQvQKt5Zwn1hUVNHwN4AwHXgAXDZtigBEY",
+            "uiAmount": 3078.158612,
+            "uiAmountString": "3078.158612",
+            "price": 0.99991,
+            "value": 3077.88157772492
+          }
+        ],
+        "solBalance": 15.070971954,
+        "netTokenAmount": 2735203.494776,
+        "totalValue": 3540.5708899885844,
+        "stablecoins": 3077.88157772492
+      },
+      {
+        "user": "dc5djqFbA9MmV8QJF4xJ3dAermM69AeQuXFMiBu6X2K",
+        "accounts": [
+          {
+            "mint": "EjWpP91L9tzw7TdiDD3FdRKfVdSvJjwjehu85yypump",
+            "amount": 13885200.748993,
+            "owner": "dc5djqFbA9MmV8QJF4xJ3dAermM69AeQuXFMiBu6X2K",
+            "uiAmount": 13885200.748993,
+            "uiAmountString": "13885200.748993",
+            "price": 0.00000689836,
+            "value": 95.78511343882334
+          },
+          {
+            "mint": "jL1cteXGczL3SL1t5RmasDGtELxgdNfGy2ceqWr3LUU",
+            "amount": 13876364.190964,
+            "owner": "dc5djqFbA9MmV8QJF4xJ3dAermM69AeQuXFMiBu6X2K",
+            "uiAmount": 13876364.190964,
+            "uiAmountString": "13876364.190964",
+            "price": 0.00000688143,
+            "value": 95.48922883462541
+          },
+          {
+            "mint": "H8u7EMR6XwgyAKgenGdDUJfdpZ3tipnSgmYGFYu5pump",
+            "amount": 13864631.951156,
+            "owner": "dc5djqFbA9MmV8QJF4xJ3dAermM69AeQuXFMiBu6X2K",
+            "uiAmount": 13864631.951156,
+            "uiAmountString": "13864631.951156",
+            "price": 0.00000691539,
+            "value": 95.87933714870469
+          },
+          {
+            "mint": "4ArgvGPbcK8W6NjWDfrwiJ7nvcEedLbDSh6uL28Bpump",
+            "amount": 13860250.670618,
+            "owner": "dc5djqFbA9MmV8QJF4xJ3dAermM69AeQuXFMiBu6X2K",
+            "uiAmount": 13860250.670618,
+            "uiAmountString": "13860250.670618",
+            "price": 0.00000691752,
+            "value": 95.87856121901342
+          },
+          {
+            "mint": "Da7uPpqxnmjsaP8QsFdNaMrxLrkupAntjS5HzQ8bpump",
+            "amount": 13760610.493758,
+            "owner": "dc5djqFbA9MmV8QJF4xJ3dAermM69AeQuXFMiBu6X2K",
+            "uiAmount": 13760610.493758,
+            "uiAmountString": "13760610.493758",
+            "price": 0.0000069665,
+            "value": 95.86329300476511
+          },
+          {
+            "mint": "So11111111111111111111111111111111111111112",
+            "amount": 6.882998793,
+            "owner": "dc5djqFbA9MmV8QJF4xJ3dAermM69AeQuXFMiBu6X2K",
+            "uiAmount": 6.882998793,
+            "uiAmountString": "6.882998793",
+            "price": 229.205319,
+            "value": 1577.6199340261799
+          }
+        ],
+        "solBalance": 210.712799617,
+        "netTokenAmount": 2351297.933497,
+        "totalValue": 2267.228267289112,
+        "stablecoins": 0
+      },
+      {
+        "user": "9oRjpK9gixZaoAyVGZovaa5CS9y4G5qKBbN37sF3wKPU",
+        "accounts": [
+          {
+            "mint": "4ujBiMrgyyDipqFv976xf4G6gmJem1oQT5pFLjgepump",
+            "amount": 2385991.128133,
+            "owner": "9oRjpK9gixZaoAyVGZovaa5CS9y4G5qKBbN37sF3wKPU",
+            "uiAmount": 2385991.128133,
+            "uiAmountString": "2385991.128133",
+            "price": 0.0000751898,
+            "value": 179.40219572609465
+          },
+          {
+            "mint": "7GYs3ybQfmCk9xqurMytr5PAvwZGCGS156u11Nzhbbyn",
+            "amount": 1946783.947996,
+            "owner": "9oRjpK9gixZaoAyVGZovaa5CS9y4G5qKBbN37sF3wKPU",
+            "uiAmount": 1946783.947996,
+            "uiAmountString": "1946783.947996",
+            "price": 0.000071801,
+            "value": 139.7810342500608
+          },
+          {
+            "mint": "YX8Uhr8s6nTVtUBsP83RMWFEe6GTzs1C8StXfbPpump",
+            "amount": 1821024.244498,
+            "owner": "9oRjpK9gixZaoAyVGZovaa5CS9y4G5qKBbN37sF3wKPU",
+            "uiAmount": 1821024.244498,
+            "uiAmountString": "1821024.244498",
+            "price": 0.0000176525,
+            "value": 32.145630476000946
+          }
+        ],
+        "solBalance": 16.225397554,
+        "netTokenAmount": 2180346.35134,
+        "totalValue": 367.5542580061564,
+        "stablecoins": 0
+      }
+    ]
+  }
+}
