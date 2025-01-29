@@ -1,10 +1,12 @@
 import fs from 'fs';
 import WebSocket from 'ws';
 import fetch from 'node-fetch';
+import 'dotenv/config';
+
 
 // WebSocket and RPC endpoint URLs for the Solana blockchain
-const wsUrl = 'wss://mainnet.helius-rpc.com/?api-key=06363dbe-a14e-410b-a5e1-8c67b969c11f';
-const rpcUrl = 'https://solana-mainnet.core.chainstack.com/10d7061b46a2397075617b518a4ff18e';
+const wsUrl = process.env.WS_URL;
+const rpcUrl = process.env.RPC_URL;
 const address = '39azUYFWPz3VHgKCf3VChUwbpURdCHRxjWVowf5jUJjg';
 
 // Arrays and objects to store processed data
